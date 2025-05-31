@@ -150,7 +150,8 @@ public static class ServerPackaging
         "ru",
         "tr",
         "zh-Hans",
-        "zh-Hant"
+        "zh-Hant",
+        "el-GR"
     };
 
     public static async Task PackageServer(bool skipBuild, bool hybridAcz, IPackageLogger logger, string configuration, List<string>? platforms = null)
