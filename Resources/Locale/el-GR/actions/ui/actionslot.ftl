@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ui-actionslot-charges = Uses left: { $charges }
-ui-actionslot-duration = [color=#a10505] { $duration } sec cooldown ({ $timeLeft } sec remaining)[/color]
+ui-actionslot-charges = Έχουν μείνει: { $charges } χρήσεις
+ui-actionslot-duration = [color=#a10505] { $duration } δευτ. cooldown ({ $timeLeft } δευτ. απομένουν)[/color]

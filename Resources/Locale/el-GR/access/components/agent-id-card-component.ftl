@@ -7,11 +7,11 @@
 
 agent-id-new =
     { $number ->
-        [0] Didn't gain any new accesses from { THE($card) }.
-        [one] Gained one new access from { THE($card) }.
-       *[other] Gained { $number } new accesses from { THE($card) }.
+        [0] Δεν απέκτησε νέες προσβάσεις από το { THE($card) }.
+        [one] Απέκτησε μία νέα πρόσβαση από { THE($card) }.
+       *[other] Απέκτησε { $number } νέες προσβάσεις από { THE($card) }.
     }
-agent-id-card-current-name = Name:
-agent-id-card-current-job = Job:
-agent-id-card-job-icon-label = Job icon:
-agent-id-menu-title = Agent ID Card
+agent-id-card-current-name = Όνομα:
+agent-id-card-current-job = Επάγγελμα:
+agent-id-card-job-icon-label = Εικονίδιο επαγγέλματος:
+agent-id-menu-title = Ταυτότητα Πράκτορα

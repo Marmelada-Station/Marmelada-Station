@@ -13,8 +13,8 @@
 
 ## ExamineSystem
 
-examine-system-entity-does-not-exist = That entity doesn't exist
-examine-system-cant-see-entity = You can't make out whatever that is.
-examine-verb-name = Basic
+examine-system-entity-does-not-exist = Αυτή η οντότητα δεν υπάρχει.
+examine-system-cant-see-entity = Δεν μπορείς να καταλάβεις τι είναι.
+examine-verb-name = Βασικά
 examinable-anchored = It is [color=darkgreen]anchored[/color] to the floor.
 examinable-unanchored = It is [color=darkred]unanchored[/color] from the floor.

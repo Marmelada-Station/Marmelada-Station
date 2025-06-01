@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gera-transformation-popup = This action will transform you. Use it again to confirm.
+gera-transformation-popup = Αυτή η ενέργεια θα σε μεταμορφώσει. Χρησιμοποίησε το ξανά για επιβεβαίωση.

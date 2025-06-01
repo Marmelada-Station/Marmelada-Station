@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tentacle-ability-use-popup = Ο/Η/Το { CAPITALIZE(THE($entity)) } σκάβει τα πλοκάμια του κάτω από το έδαφος!
+tentacle-ability-use-popup = { CAPITALIZE(THE($entity)) } σκάβει τα πλοκάμια του κάτω από το έδαφος!

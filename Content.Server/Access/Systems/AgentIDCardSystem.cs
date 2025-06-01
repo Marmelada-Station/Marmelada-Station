@@ -171,7 +171,7 @@ namespace Content.Server.Access.Systems
 
             if (addedLength == 0)
             {
-                _popupSystem.PopupEntity(Loc.GetString("agent-id-no-new", ("card", args.Target)), args.Target.Value, args.User);
+                _popupSystem.PopupEntity(Loc.GetString("agent-id-new-0", ("card", args.Target)), args.Target.Value, args.User);
                 return;
             }
 

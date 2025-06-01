@@ -8,15 +8,15 @@
 
 ## Action menu stuff (left panel, with hotbars etc)
 
-ui-actionmenu-title = Actions
-ui-actionmenu-filter-label = Filters: { $selectedLabels }
-ui-actionmenu-filter-button = Filter
-ui-actionmenu-search-bar-placeholder-text = Search
-ui-actionmenu-clear-button = Clear
-ui-actionsui-function-lock-action-slots = (Un)lock dragging and clearing action slots
-ui-actionsui-function-open-abilities-menu = Open action menu
-ui-actionmenu-enabled = Enabled
-ui-actionmenu-item = Item
-ui-actionmenu-innate = Innate
-ui-actionmenu-instant = Instant
-ui-actionmenu-targeted = Targeted
+ui-actionmenu-title = Ενέργειες
+ui-actionmenu-filter-label = Φίλτρα: { $selectedLabels }
+ui-actionmenu-filter-button = Φίλτρο
+ui-actionmenu-search-bar-placeholder-text = Αναζήτηση
+ui-actionmenu-clear-button = Εκκαθάριση
+ui-actionsui-function-lock-action-slots = (Απ)ενεργοποίηση μετακίνησης και εκκαθάρισης θέσεων ενεργειών
+ui-actionsui-function-open-abilities-menu = Άνοιγμα μενού ενεργειών
+ui-actionmenu-enabled = Ενεργοποιημένες
+ui-actionmenu-item = Αντικειμένου
+ui-actionmenu-innate = Φυσικές
+ui-actionmenu-instant = Άμεσες
+ui-actionmenu-targeted = Στόχου

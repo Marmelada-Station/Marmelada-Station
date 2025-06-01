@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dna-scrambler-action-popup = THIS ACTION WILL IRREVERSIBLY CHANGE YOUR APPEARANCE! Use it again to confirm.
+dna-scrambler-action-popup = ΑΥΤΗ Η ΕΝΕΡΓΕΙΑ ΘΑ ΑΛΛΑΞΕΙ ΟΡΙΣΤΙΚΑ ΤΗΝ ΕΜΦΑΝΙΣΗ ΣΟΥ! Χρησιμοποίησε το ξανά για επιβεβαίωση.

@@ -9,14 +9,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-console-window-privileged-id = Privileged ID:
-id-card-console-window-target-id = Target ID:
-id-card-console-window-full-name-label = Full name:
-id-card-console-window-save-button = Save
-id-card-console-window-job-title-label = Job title:
-id-card-console-window-eject-button = Eject
-id-card-console-window-insert-button = Insert
-id-card-console-window-job-selection-label = Job presets (sets department and job icon):
-access-id-card-console-component-no-hands-error = You have no hands.
-id-card-console-privileged-id = Privileged ID
-id-card-console-target-id = Target ID
+id-card-console-window-privileged-id = Προνομιακή Ταυτότητα:
+id-card-console-window-target-id = Ταυτότητα Στόχου:
+id-card-console-window-full-name-label = Ονοματεπώνυμο:
+id-card-console-window-save-button = Αποθήκευση
+id-card-console-window-job-title-label = Επάγγελμα:
+id-card-console-window-eject-button = Εξαγωγή
+id-card-console-window-insert-button = Εισαγωγή
+id-card-console-window-job-selection-label = Προεπιλογές θέσεων εργασίας (ρυθμίζει το εικονίδιο τμήματος και επαγγέλματος):
+access-id-card-console-component-no-hands-error = Δεν έχεις χέρια.
+id-card-console-privileged-id = Προνομιακή Ταυτότητα
+id-card-console-target-id = Ταυτότητα Στόχου

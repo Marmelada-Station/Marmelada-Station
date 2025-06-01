@@ -1,26 +1,194 @@
-<svg width="1001" height="252" viewBox="0 0 1001 252" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_235_486)">
-<path d="M39.3765 67.1025L37.8003 74.8458L999.117 8.81591L1000.78 0.957458L39.3765 67.1025Z" fill="#FFFC00"/>
-<path d="M0.0712891 251.687L959.839 185.832L961.504 177.974L1.62373 243.959L0.0712891 251.687Z" fill="#FFFC00"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9.52148 210.625L30.1699 112.246L13.7782 103.782L77.7719 99.6371L85.8385 107.27L66.2849 200.063L59.1145 207.177L9.52148 210.625ZM33.3506 189.313L48.0254 188.329L52.2255 167.785L62.2593 120.329L47.5731 121.335L33.3506 189.313Z" fill="white"/>
-<path d="M133.422 95.9164L149.452 94.7939L132.183 182.975L116.153 184.097L133.422 95.9164ZM92.7769 204.995L112.402 203.626L128.431 202.504L148.057 201.129L170.678 93.3094L115.4 97.1755L92.7769 204.995Z" fill="white"/>
-<path d="M221.609 129.35L206.927 130.374L211.123 109.853L225.803 108.824L221.609 129.35ZM195.691 91.3062L173.072 199.172L192.828 197.796L202.046 154.089L207.349 196.784L228.368 195.319L222.561 148.916L237.037 147.906L249.622 87.5343L195.691 91.3062Z" fill="white"/>
-<path d="M228.368 195.319L207.349 196.784L202.046 154.089L192.828 197.796L173.072 199.172L195.691 91.3062L211.123 109.853L206.927 130.374L221.609 129.35L225.803 108.824L211.123 109.853L195.691 91.3062L249.622 87.5343L237.037 147.906L222.561 148.916L228.368 195.319Z" fill="white"/>
-<path d="M311.566 189.338L290.546 190.802L285.244 148.107L276.025 191.814L256.27 193.191L278.897 85.3859L298.502 84.0131L289.237 128.223L312.239 83.0512L334.305 81.5062L333.852 83.6619L305.34 139.596L311.566 189.338Z" fill="white"/>
-<path d="M411.082 115.762L375.096 118.277L379.463 97.4881L395.722 96.3498L392.862 110.104L412.588 108.727L419.663 74.9491L363.952 78.8398L351.308 139.666L387.293 137.152L381.418 164.673L365.307 165.801L368.923 148.835L349.048 150.222L341.217 187.215L396.928 183.324L411.082 115.762Z" fill="#D5D5D5"/>
-<path d="M439.393 93.3361L458.364 92.0116L439.845 180.355L459.57 178.972L478.091 90.6281L497.061 89.3037L501.277 69.2768L443.61 73.3108L439.393 93.3361Z" fill="#D5D5D5"/>
-<path d="M536.51 106.716L540.725 86.2418L556.836 85.1136L552.618 105.59L536.51 106.716ZM558.038 172.078L580.778 63.7108L525.216 67.5995L502.48 175.967L522.204 174.583L532.292 126.89L548.403 125.761L538.315 173.458L558.038 172.078Z" fill="#D5D5D5"/>
-<path d="M623.191 167.684L641.712 79.3405L660.683 78.0086L664.901 57.9871L607.233 62.0211L603.018 82.0427L621.988 80.7183L603.469 169.062L623.191 167.684Z" fill="#D5D5D5"/>
-<path d="M666.072 164.719L685.796 163.343L708.532 54.976L688.808 56.3595L666.072 164.719Z" fill="#D5D5D5"/>
-<path d="M750.511 71.8982L766.623 70.7703L752.316 139.094L736.207 140.222L750.511 71.8982ZM712.267 161.618L767.825 157.738L790.561 49.3702L735.001 53.2506L712.267 161.618Z" fill="#D5D5D5"/>
-<path d="M814.05 154.685L824.436 105.461L833.469 153.323L850.635 152.123L873.374 43.7552L853.65 45.1389L843.258 95.1111L834.225 46.4951L817.06 47.6956L794.329 156.063L814.05 154.685Z" fill="#D5D5D5"/>
-<path d="M901.388 52.9128L901.845 50.747L917.699 49.6377L898.491 141.396L896.358 141.545L915.109 51.9543L901.388 52.9128ZM905.046 149.016L927.607 40.8656L895.445 43.1142L891.483 61.9929L905.202 61.0332L886.605 150.31L905.046 149.016Z" fill="#C3C100"/>
-<path d="M980.953 45.2041L970.051 97.2906L984.821 96.2769L984.337 98.6019L969.564 99.6158L961.747 136.96L959.423 137.12L967.244 99.7761L932.184 102.204L980.953 45.2041ZM922.427 110.966L957.487 108.538L949.704 145.883L968.149 144.593L975.933 107.27L990.813 106.249L994.719 87.5042L979.843 88.5251L990.706 36.4417L976.649 37.4767L925.16 97.9379L922.427 110.966Z" fill="#C3C100"/>
-<path d="M976.885 53.6221L937.188 99.5508L967.749 97.4535L976.885 53.6221ZM965.346 76.0626L962.174 91.283L951.336 92.0268L965.346 76.0626Z" fill="#C3C100"/>
-</g>
-<defs>
-<clipPath id="clip0_235_486">
-<rect width="1000.71" height="250.73" fill="white" transform="translate(0.0712891 0.957458)"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="252mm"
+   viewBox="0 0 1000 252"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="352.75284"
+       y="270.71729"
+       width="765.6651"
+       height="112.11524"
+       id="rect55" />
+    <rect
+       x="274.57068"
+       y="177.89085"
+       width="897.18866"
+       height="522.07098"
+       id="rect54" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter32"
+       x="-0.051278863"
+       y="-0.072834118"
+       width="1.1025577"
+       height="1.1456682">
+      <feMorphology
+         radius="4"
+         in="SourceGraphic"
+         result="result0"
+         id="feMorphology32" />
+      <feGaussianBlur
+         in="result0"
+         stdDeviation="8"
+         result="result91"
+         id="feGaussianBlur32" />
+      <feComposite
+         operator="in"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite32" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter33"
+       x="-0.028333956"
+       y="-0.28978763"
+       width="1.0566679"
+       height="1.5795753">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur33" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix33" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite33" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter63"
+       x="-0.0070332961"
+       y="-0.0002818396"
+       width="1.0140666"
+       height="1.0005637">
+      <feGaussianBlur
+         stdDeviation="2.46374 0.01"
+         result="blur"
+         id="feGaussianBlur63" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter64"
+       x="-0.047271458"
+       y="-0.0036086071"
+       width="1.0945429"
+       height="1.0072172">
+      <feGaussianBlur
+         stdDeviation="2.46374 0.01"
+         result="blur"
+         id="feGaussianBlur64" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter65"
+       x="-0.010183913"
+       y="-0.00027047914"
+       width="1.0203678"
+       height="1.000541">
+      <feGaussianBlur
+         stdDeviation="2.46374 0.01"
+         result="blur"
+         id="feGaussianBlur65" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g66">
+      <rect
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.252749;filter:url(#filter32)"
+         id="rect1"
+         width="296.41843"
+         height="208.69341"
+         x="360.72357"
+         y="34.134647"
+         rx="17.719847"
+         transform="matrix(0.47207229,0,0,0.99999996,259.74694,-3.4939361)" />
+      <rect
+         style="fill:#1a1a1a;fill-rule:evenodd;stroke-width:0.33204;filter:url(#filter33)"
+         id="rect2"
+         width="254.11206"
+         height="24.845781"
+         x="381.58002"
+         y="8.1598482"
+         rx="21.514835"
+         transform="matrix(0.47207229,0,0,0.99999996,259.74694,-3.4939361)" />
+      <ellipse
+         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
+         id="path5"
+         cx="438.62497"
+         cy="48.392044"
+         rx="2.7113922"
+         ry="8.1394644" />
+      <ellipse
+         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
+         id="path5-3"
+         cx="561.90204"
+         cy="221.71458"
+         rx="2.7113922"
+         ry="8.1394644" />
+      <rect
+         style="fill:#ffe6d5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.467223"
+         id="rect66"
+         width="138.91351"
+         height="126.63335"
+         x="430.88272"
+         y="72.901337"
+         rx="33.130135"
+         ry="0" />
+      <ellipse
+         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
+         id="path5-1"
+         cx="440.96143"
+         cy="60.457432"
+         rx="2.7113922"
+         ry="8.1394644" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.15170125,0,0,0.30448768,391.30904,56.75887)"
+         id="text54"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.719px;line-height:0;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect54);display:inline;fill:#552200;fill-opacity:1;fill-rule:evenodd;stroke-width:1.002;filter:url(#filter63)"><tspan
+           x="300.91556"
+           y="218.40183"
+           id="tspan1">MARMELADA
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.15170125,0,0,0.30448768,387.72785,86.909246)"
+         id="text55"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.719px;line-height:0;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect55);display:inline;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.002;filter:url(#filter65)"><tspan
+           x="441.75132"
+           y="311.228"
+           id="tspan2">STATION
+</tspan><tspan
+           x="715.07207"
+           y="311.228"
+           id="tspan3">1</tspan></text>
+      <rect
+         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112;filter:url(#filter64)"
+         id="rect57"
+         width="125.08555"
+         height="6.6507654"
+         x="490.11026"
+         y="141.20088"
+         rx="33.043858"
+         ry="0"
+         transform="matrix(1,0,0,1.7518096,-54.572926,-113.7599)" />
+    </g>
+  </g>
 </svg>

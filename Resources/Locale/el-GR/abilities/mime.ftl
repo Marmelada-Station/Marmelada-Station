@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mime-cant-speak = Ο όρκος σιωπής σου σε εμποδίζει από το να μιλήσεις.
-mime-invisible-wall-popup = { CAPITALIZE(THE($mime)) } brushes up against an invisible wall!
-mime-invisible-wall-failed = You can't create an invisible wall there.
-mime-not-ready-repent = You aren't ready to repent for your broken vow yet.
-mime-ready-to-repent = You feel ready to take your vows again.
+mime-cant-speak = Ο όρκος σιωπής σε εμποδίζει από το να μιλήσεις.
+mime-invisible-wall-popup = { CAPITALIZE(DAT-OBJ($mime)) } { CAPITALIZE(THE($mime)) } στρώνει έναν αόρατο τοίχο!
+mime-invisible-wall-failed = Δεν μπορείς να φτιάξεις αόρατο τείχος εκεί.
+mime-not-ready-repent = Δεν είσαι ακόμα έτοιμος να μετανοήσεις για τον σπασμένο όρκο σου.
+mime-ready-to-repent = Νιώθεις έτοιμος να ξαναδώσεις τους όρκους σου.

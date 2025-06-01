@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spider-web-action-nogrid = There is no floor under you!
-spider-web-action-success = You place webs around you.
-spider-web-action-fail = You can't place webs here! All cardinal directions already have webs!
-sericulture-failure-hunger = Your stomach is too empty to make any more webs!
+spider-web-action-nogrid = Δεν υπάρχει πάτωμα κάτω σου!
+spider-web-action-success = Τοποθετείς ιστούς γύρω σου.
+spider-web-action-fail = Δεν μπορείς να τοποθετήσεις ιστούς εδώ! Όλα τα σημεία έχουν ήδη ιστούς!
+sericulture-failure-hunger = Το στομάχι σου είναι υπερβολικά άδειο για να φτιάξεις κι άλλους ιστούς!

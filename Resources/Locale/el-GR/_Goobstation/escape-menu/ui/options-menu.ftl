@@ -3,10 +3,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ui-options-auto-fill-highlights = Auto-fill the highlights with the character's information
-ui-options-highlights-color = Highlighs color:
-ui-options-highlights-color-example = This is an highlighted text!
-ui-options-function-resist-grab = Resist Grab
-ui-options-coalesce-identical-messages = Coalesce identical messages in chat
-ui-options-detailed-examine = Show detailed examine text
+ui-options-auto-fill-highlights = Αυτόματη συμπλήρωση των επισημάνσεων με τις πληροφορίες του χαρακτήρα
+ui-options-highlights-color = Χρώματα Επισήμανσης:
+ui-options-highlights-color-example = Αυτό είναι ένα επισημασμένο κείμενο!
+ui-options-function-resist-grab = Αντίσταση Αρπαγής
+ui-options-coalesce-identical-messages = Συγχώνευση πανομοιότυπων μηνυμάτων στο chat
+ui-options-detailed-examine = Εμφάνιση λεπτομερούς κειμένου ανάλυσης
 ui-options-hud-theme-coscult = Cosmic Cult

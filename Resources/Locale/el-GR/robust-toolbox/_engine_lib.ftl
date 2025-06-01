@@ -32,10 +32,10 @@ zzzz-dat-object =
 # Used internally by the POSS-PRONOUN() function.
 zzzz-possessive-pronoun =
     { GENDER($ent) ->
-        [male] του
-        [female] της
+        [male] τον
+        [female] την
         [epicene] τους
-       *[neuter] του
+       *[neuter] το
     }
 # Used internally by the POSS-ADJ() function.
 zzzz-possessive-adjective =
