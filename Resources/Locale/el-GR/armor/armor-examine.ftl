@@ -8,22 +8,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Armor examines
-armor-examinable-verb-text = Armor
-armor-examinable-verb-message = Examine the armor values.
-armor-examine = It provides the following protection:
-armor-coefficient-value = - [color=yellow]{ $type }[/color] damage reduced by [color=lightblue]{ $value }%[/color].
-armor-reduction-value = - [color=yellow]{ $type }[/color] damage reduced by [color=lightblue]{ $value }[/color].
-armor-damage-type-blunt = Blunt
-armor-damage-type-slash = Slash
-armor-damage-type-piercing = Piercing
-armor-damage-type-heat = Heat
-armor-damage-type-radiation = Radiation
-armor-damage-type-caustic = Caustic
-armor-damage-type-bloodloss = Bloodloss
-armor-damage-type-asphyxiation = Asphyxiation
-armor-damage-type-cellular = Cellular
-armor-damage-type-cold = Cold
-armor-damage-type-poison = Poison
-armor-damage-type-shock = Shock
-armor-damage-type-structural = Structural
-armor-damage-type-holy = Holy
+armor-examinable-verb-text = Πανοπλία
+armor-examinable-verb-message = Ανάλυση τιμών πανοπλίας.
+armor-examine = Παρέχει την ακόλουθη προστασία:
+armor-coefficient-value = - Ζημία [color=yellow]{ $type }[/color] μειωμένη κατά [color=lightblue]{ $value }%[/color].
+armor-reduction-value = - Ζημία [color=yellow]{ $type }[/color] μειωμένη κατά [color=lightblue]{ $value }[/color].
+armor-damage-type-blunt = Αμβλεία
+armor-damage-type-slash = Χαρακιάς
+armor-damage-type-piercing = Διάτρησης
+armor-damage-type-heat = Θερμική
+armor-damage-type-radiation = Ακτινοβολίας
+armor-damage-type-caustic = Καυστική
+armor-damage-type-bloodloss = Αιμορραγίας
+armor-damage-type-asphyxiation = Ασφυξίας
+armor-damage-type-cellular = Κυτταρική
+armor-damage-type-cold = Ψύχου
+armor-damage-type-poison = Δηλητηρίου
+armor-damage-type-shock = Ηλεκτροπληξίας
+armor-damage-type-structural = Δομική
+armor-damage-type-holy = Ιερή

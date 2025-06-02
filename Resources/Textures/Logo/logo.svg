@@ -11,184 +11,201 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <rect
-       x="352.75284"
-       y="270.71729"
-       width="765.6651"
-       height="112.11524"
-       id="rect55" />
-    <rect
-       x="274.57068"
-       y="177.89085"
-       width="897.18866"
-       height="522.07098"
-       id="rect54" />
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter32"
-       x="-0.051278863"
-       y="-0.072834118"
-       width="1.1025577"
-       height="1.1456682">
-      <feMorphology
-         radius="4"
-         in="SourceGraphic"
-         result="result0"
-         id="feMorphology32" />
-      <feGaussianBlur
-         in="result0"
-         stdDeviation="8"
-         result="result91"
-         id="feGaussianBlur32" />
-      <feComposite
-         operator="in"
-         in="SourceGraphic"
-         in2="result91"
-         id="feComposite32" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter33"
-       x="-0.028333956"
-       y="-0.28978763"
-       width="1.0566679"
-       height="1.5795753">
-      <feGaussianBlur
-         result="result6"
-         stdDeviation="3"
-         in="SourceGraphic"
-         id="feGaussianBlur33" />
+       id="filter484"
+       x="-0.026348999"
+       y="-0.043339077"
+       width="1.0526953"
+       height="1.0866799">
       <feColorMatrix
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
-         result="result7"
+         result="result2"
+         type="luminanceToAlpha"
          in="SourceGraphic"
-         id="feColorMatrix33" />
+         id="feColorMatrix481" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting481">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight481" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting482">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight482" />
+      </feDiffuseLighting>
       <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite482"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite483"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in2="SourceGraphic"
          operator="in"
-         in="result6"
-         in2="result7"
-         id="feComposite33" />
+         in="result9"
+         id="feComposite484" />
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter63"
-       x="-0.0070332961"
-       y="-0.0002818396"
-       width="1.0140666"
-       height="1.0005637">
-      <feGaussianBlur
-         stdDeviation="2.46374 0.01"
-         result="blur"
-         id="feGaussianBlur63" />
+       id="filter487"
+       x="-0.0080694609"
+       y="-0.042350118"
+       width="1.0138658"
+       height="1.084706">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix484" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting484">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight484" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting485">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight485" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite485"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite486"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite487" />
     </filter>
     <filter
        style="color-interpolation-filters:sRGB"
-       id="filter64"
-       x="-0.047271458"
-       y="-0.0036086071"
-       width="1.0945429"
-       height="1.0072172">
-      <feGaussianBlur
-         stdDeviation="2.46374 0.01"
-         result="blur"
-         id="feGaussianBlur64" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter65"
-       x="-0.010183913"
-       y="-0.00027047914"
-       width="1.0203678"
-       height="1.000541">
-      <feGaussianBlur
-         stdDeviation="2.46374 0.01"
-         result="blur"
-         id="feGaussianBlur65" />
+       id="filter490"
+       x="-0.0039764338"
+       y="-0.042350005"
+       width="1.0079527"
+       height="1.0847058">
+      <feColorMatrix
+         result="result2"
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         id="feColorMatrix487" />
+      <feSpecularLighting
+         specularConstant="0.5"
+         surfaceScale="-15"
+         specularExponent="10"
+         result="result10"
+         id="feSpecularLighting487">
+        <feDistantLight
+           elevation="20"
+           azimuth="225"
+           id="feDistantLight487" />
+      </feSpecularLighting>
+      <feDiffuseLighting
+         diffuseConstant="0.5"
+         surfaceScale="15"
+         id="feDiffuseLighting488">
+        <feDistantLight
+           azimuth="225"
+           elevation="20"
+           id="feDistantLight488" />
+      </feDiffuseLighting>
+      <feComposite
+         result="result11"
+         in2="result10"
+         operator="arithmetic"
+         k2="0.5"
+         k3="0.5"
+         id="feComposite488"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in="result11"
+         result="result9"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="SourceGraphic"
+         id="feComposite489"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result9"
+         id="feComposite490" />
     </filter>
   </defs>
   <g
      id="layer1">
     <g
-       id="g66">
-      <rect
-         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.252749;filter:url(#filter32)"
-         id="rect1"
-         width="296.41843"
-         height="208.69341"
-         x="360.72357"
-         y="34.134647"
-         rx="17.719847"
-         transform="matrix(0.47207229,0,0,0.99999996,259.74694,-3.4939361)" />
-      <rect
-         style="fill:#1a1a1a;fill-rule:evenodd;stroke-width:0.33204;filter:url(#filter33)"
-         id="rect2"
-         width="254.11206"
-         height="24.845781"
-         x="381.58002"
-         y="8.1598482"
-         rx="21.514835"
-         transform="matrix(0.47207229,0,0,0.99999996,259.74694,-3.4939361)" />
-      <ellipse
-         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
-         id="path5"
-         cx="438.62497"
-         cy="48.392044"
-         rx="2.7113922"
-         ry="8.1394644" />
-      <ellipse
-         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
-         id="path5-3"
-         cx="561.90204"
-         cy="221.71458"
-         rx="2.7113922"
-         ry="8.1394644" />
-      <rect
-         style="fill:#ffe6d5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.467223"
-         id="rect66"
-         width="138.91351"
-         height="126.63335"
-         x="430.88272"
-         y="72.901337"
-         rx="33.130135"
-         ry="0" />
-      <ellipse
-         style="fill:#ececec;fill-rule:evenodd;stroke-width:0.148154"
-         id="path5-1"
-         cx="440.96143"
-         cy="60.457432"
-         rx="2.7113922"
-         ry="8.1394644" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.15170125,0,0,0.30448768,391.30904,56.75887)"
-         id="text54"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.719px;line-height:0;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect54);display:inline;fill:#552200;fill-opacity:1;fill-rule:evenodd;stroke-width:1.002;filter:url(#filter63)"><tspan
-           x="300.91556"
-           y="218.40183"
-           id="tspan1">MARMELADA
-</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.15170125,0,0,0.30448768,387.72785,86.909246)"
-         id="text55"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.719px;line-height:0;font-family:Impact;-inkscape-font-specification:'Impact, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect55);display:inline;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:1.002;filter:url(#filter65)"><tspan
-           x="441.75132"
-           y="311.228"
-           id="tspan2">STATION
-</tspan><tspan
-           x="715.07207"
-           y="311.228"
-           id="tspan3">1</tspan></text>
-      <rect
-         style="fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112;filter:url(#filter64)"
-         id="rect57"
-         width="125.08555"
-         height="6.6507654"
-         x="490.11026"
-         y="141.20088"
-         rx="33.043858"
-         ry="0"
-         transform="matrix(1,0,0,1.7518096,-54.572926,-113.7599)" />
+       id="g1163"
+       transform="translate(-23.895815,-0.98536609)">
+      <path
+         d="m 1410.805,137.60467 41.088,-79.488 12.288,76.416 h 18.816 L 1461.109,2.4366705 1410.805,99.97267 1360.501,2.4366705 1338.613,134.53267 h 18.816 l 12.288,-76.416 z m 225.856,-3.072 h 19.968 L 1595.189,2.4366705 1533.749,134.53267 h 19.968 l 12.48,-27.648 h 57.984 z m -62.016,-46.08 20.544,-45.312 20.544,45.312 z m 229.504,46.08 -33.216,-46.272 c 19.2,-5.184 30.144,-21.504 30.144,-41.472 0,-24.384 -15.552,-41.2799995 -49.152,-41.2799995 h -39.936 V 134.53267 h 18.432 v -44.544 h 20.16 l 32.064,44.544 z m -73.728,-110.592 h 27.84 c 13.44,0 24.384,7.104 24.384,24 0,16.704 -11.328,23.616 -24.768,23.616 h -27.456 z m 201.2802,113.664 41.088,-79.488 12.288,76.416 h 18.816 L 1982.0052,2.4366705 1931.7012,99.97267 1881.3972,2.4366705 1859.5092,134.53267 h 18.816 l 12.288,-76.416 z m 207.4242,-113.664 V 5.5086705 h -73.728 V 134.53267 h 73.728 v -18.432 h -55.296 v -36.864 h 46.08 v -18.432 h -46.08 v -36.864 z m 83.0078,92.16 V 5.5086705 h -18.432 V 134.53267 h 70.656 v -18.432 z m 210.4958,18.432 h 19.968 L 2391.157,2.4366705 2329.717,134.53267 h 19.968 l 12.48,-27.648 h 57.984 z m -62.016,-46.08 20.544,-45.312 20.544,45.312 z M 2546.5491,5.5086705 h -38.592 V 134.53267 h 38.592 c 42.048,0 65.856,-28.8 65.856,-64.512 0,-35.712 -22.848,-64.5119995 -65.856,-64.5119995 z m 4.8,110.5919995 h -24.96 v -92.16 h 24.96 c 25.152,0 42.624,20.544 42.624,46.08 0,25.536 -17.472,46.08 -42.624,46.08 z m 207.0401,18.432 h 19.968 l -61.44,-132.0959995 -61.44,132.0959995 h 19.968 l 12.48,-27.648 h 57.984 z m -62.016,-46.08 20.544,-45.312 20.544,45.312 z"
+         id="text1"
+         style="font-size:192px;line-height:0;font-family:'Noir Pro';-inkscape-font-specification:'Noir Pro, Normal';text-align:center;letter-spacing:40px;word-spacing:0px;text-anchor:middle;white-space:pre;fill:#ff6600;fill-rule:evenodd;stroke:#000000;stroke-width:11.4503;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:274.808, 11.4503;paint-order:stroke markers fill;filter:url(#filter490)"
+         transform="matrix(0.46783728,0,0,0.45795282,-439.14026,17.699082)"
+         aria-label="MARMELADA" />
+      <path
+         d="m 314.6274,123.15892 c -9.4203,-1.86628 -13.50836,-3.99918 -13.50836,-8.62046 0,-5.33225 4.62128,-8.44273 12.7974,-8.44273 7.46514,0 12.26417,3.28822 15.37465,6.30983 l 4.08805,-7.73176 c -7.37627,-6.843052 -16.79658,-7.109665 -19.28496,-7.109665 -13.95272,0 -21.50673,7.642885 -21.50673,17.329805 0,7.99837 4.71015,13.95272 21.32899,16.79658 8.17611,1.42193 13.59723,4.35467 13.59723,9.15369 0,5.68773 -4.88789,9.33144 -13.86384,9.33144 -7.0208,0 -37.24233,-14.09452 -42.16282,-19.51829 l 5.00051,5.79278 6.95592,6.85583 c 0.712,0.79418 3.60503,3.48476 8.00325,6.5092 6.04142,4.15438 13.69381,8.89207 22.02539,8.89207 13.95272,0 22.57319,-7.82063 22.57319,-18.21851 0,-10.0424 -7.19854,-14.57481 -21.41787,-17.32981 z m 45.62032,-24.883818 v 8.531598 h 15.64126 v 51.18958 h 8.53159 V 106.8067 h 15.64126 v -8.531598 z m 101.69769,59.721178 h 9.24257 L 442.74932,96.853169 414.31067,157.99628 h 9.24256 l 5.7766,-12.7974 h 26.83898 z m -28.70526,-21.32899 9.50917,-20.97351 9.50918,20.97351 z m 52.19667,-38.392188 v 8.531598 h 15.64126 v 51.18958 h 8.5316 V 106.8067 h 15.64126 v -8.531598 z m 76.81394,59.721178 V 98.275102 h -8.5316 V 157.99628 Z M 620.5796,97.564135 c -16.88545,0 -30.57155,13.686105 -30.57155,30.571555 0,16.88545 13.6861,30.57155 30.57155,30.57155 16.88545,0 30.57156,-13.6861 30.57156,-30.57155 0,-16.88545 -13.68611,-30.571555 -30.57156,-30.571555 z m 0,52.611515 c -12.26417,0 4.37794,-9.77579 4.37794,-22.03996 0,-12.26417 -16.64211,-22.03996 -4.37794,-22.03996 12.26417,0 22.03996,9.77579 22.03996,22.03996 0,12.26417 -9.77579,22.03996 -22.03996,22.03996 z m 108.09648,9.24256 V 98.275102 h -8.5316 V 139.15567 L 678.90843,96.853169 v 61.143111 h 8.5316 v -40.88057 z"
+         id="text3"
+         style="font-size:88.8708px;line-height:0;font-family:'Noir Pro';-inkscape-font-specification:'Noir Pro, Normal';text-align:center;letter-spacing:18.5147px;word-spacing:0px;text-anchor:middle;fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:5.3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:127.2, 5.3;paint-order:stroke markers fill;filter:url(#filter487)"
+         transform="scale(1.0107344,0.98937961)"
+         aria-label="STATION" />
+      <path
+         d="m 1984.545,356.57317 v 16.896 l 21.504,-6.912 v 108.288 h 18.432 v -132.096 z m 187.456,78.336 v -92.16 l -86.016,110.592 h 67.584 v 21.504 h 18.432 v -21.504 h 15.36 l 14.4655,-31.84374 z m -18.432,0 h -31.104 l 31.104,-42.624 z"
+         id="text4"
+         style="font-size:192px;line-height:0;font-family:'Noir Pro';-inkscape-font-specification:'Noir Pro, Normal';text-align:center;letter-spacing:40px;word-spacing:0px;text-anchor:middle;white-space:pre;fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:11.4503;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:274.808, 11.4503;paint-order:stroke markers fill;filter:url(#filter484)"
+         transform="matrix(0.46783728,0,0,0.45795282,-458.32991,17.699082)"
+         aria-label="14" />
     </g>
   </g>
 </svg>

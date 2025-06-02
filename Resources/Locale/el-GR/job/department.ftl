@@ -11,13 +11,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-department-Cargo = Cargo
-department-Civilian = Civilian
-department-Command = Command
-department-CentralCommand = Central Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Security = Security
-department-Science = Science
+department-Cargo = Μεταφορές
+department-Civilian = Πολίτες
+department-Command = Διοίκηση
+department-CentralCommand = Κεντρική Διοίκηση
+department-Engineering = Μηχανολογία
+department-Medical = Ιατρική
+department-Security = Ασφάλεια
+department-Science = Επιστήμη
 department-Silicon = Silicon
-department-Specific = Station specific
+department-Specific = Μοναδικό για τον σταθμό

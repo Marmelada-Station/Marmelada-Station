@@ -11,18 +11,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-supervisors-centcom = Central Command
-job-supervisors-captain = the Captain
-job-supervisors-hop = the Head of Personnel
-job-supervisors-hos = the Head of Security
-job-supervisors-ce = the Chief Engineer
-job-supervisors-cmo = the Chief Medical Officer
-job-supervisors-rd = the Research Director
-job-supervisors-qm = the Quartermaster
-job-supervisors-service = Chefs, Botanists, the Bartender, and the Head of Personnel
-job-supervisors-engineering = Station Engineers, Atmospheric Technicians, and the Chief Engineer
-job-supervisors-medicine = Medical Doctors, Paramedics, Chemists, and the Chief Medical Officer
-job-supervisors-security = Security Officers, the Warden, and the Head of Security
-job-supervisors-science = Scientists and the Research Director
-job-supervisors-hire = whoever hires you
-job-supervisors-everyone = absolutely everyone
+job-supervisors-centcom = στην Κεντρική Διοίκηση
+job-supervisors-captain = στον Καπετάνιος
+job-supervisors-hop = στον Υπεύθυνο Προσωπικού
+job-supervisors-hos = στον Υπεύθυνο Ασφάλειας
+job-supervisors-ce = στον Αρχιμηχανικό
+job-supervisors-cmo = στον Αρχίατρο
+job-supervisors-rd = στον Διευθυντή Έρευνας
+job-supervisors-qm = στον Φροντιστή
+job-supervisors-service = στους Μάγειρες, τους Βοτανολόγους, στους Μπαρτέντερ και τον Υπεύθυνο Προσωπικού
+job-supervisors-engineering = στους Μηχανικούς Σταθμού, τους Ατμοσφαιρικούς Τεχνικούς και τον Αρχιμηχανικό
+job-supervisors-medicine = στους Γιατρούς, τους Παραϊατρικούς, τους Χημικούς και τον Αρχίατρο
+job-supervisors-security = στους Αξιωματικούς Ασφαλείας, τον Δεσμοφύλακα και τον Υπεύθυνο Ασφάλειας
+job-supervisors-science = στους Επιστήμονες και τον Διευθυντή Έρευνας
+job-supervisors-hire = σε όποιον σε προσλάβει
+job-supervisors-everyone = σε κυριολεκτικά οι πάντες

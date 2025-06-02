@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-greet-station-name = Welcome aboard { $stationName }.
-job-greet-introduce-job-name = Your role is: { $jobName }.
-job-greet-important-disconnect-admin-notify = You are playing a job that is important for Game Progression. If you have to disconnect, please notify the admins via ahelp.
-job-greet-supervisors-warning = As the { $jobName } you answer directly to { $supervisors }. Special circumstances may change this.
-job-greet-crew-shortages = As this station was initially staffed with a skeleton crew, additional access has been added to your ID card.
-job-not-available-wait-in-lobby = The round has started, but you did not receive any of your preferred job roles (or have no preferred job roles selected) and chose to remain in the lobby. You can change this behavior on the customization screen.
+job-greet-station-name = Καλώς ήρθες στον σταθμό { $stationName }.
+job-greet-introduce-job-name = Ο ρόλος σου είναι: { $jobName }.
+job-greet-important-disconnect-admin-notify = Παίζεις ένα επάγγελμα που είναι σημαντικό για την Εξέλιξη του Παιχνιδιού. Αν χρειαστεί να αποσυνδεθείς, παρακαλούμε ενημέρωσε τους διαχειριστές μέσω ahelp.
+job-greet-supervisors-warning = Ως { $jobName } απαντάς άμεσα { $supervisors }. Υπό ειδικές συνθήκες μπορεί να αλλάξει αυτό.
+job-greet-crew-shortages = Καθώς ο σταθμός αυτός ήταν αρχικά στελεχωμένος με ελάχιστο προσωπικό, έχουν προστεθεί επιπλέον προσβάσεις στην ταυτότητα σας.
+job-not-available-wait-in-lobby = Ο γύρος ξεκίνησε, αλλά δεν έλαβες κανέναν από τους προτιμώμενους ρόλους επαγγέλματος (ή δεν είχες επιλέξει κανέναν από τους προτιμώμενους ρόλους επαγγέλματος) και επέλεξες να παραμείνεις στο λόμπι. Μπορείς να αλλάξεις αυτή τη συμπεριφορά στην οθόνη προσαρμογής.

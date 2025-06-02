@@ -8,24 +8,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
-ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
-ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
+ame-controller-component-fuel-slot-fail-whitelist = Δεν μπορείς να το βάλεις αυτό στον ελεγκτή...
+ame-controller-component-fuel-slot-fail-locked = Απενεργοποίησε τον ΚΑΥ πριν επεξεργαστείς τα καύσιμα του.
+ame-controller-component-fuel-slot-success-insert = Τοποθετείς το δοχείο στην υποδοχή καυσίμου.
 
 ## UI
 
-ame-window-title = Antimatter Control Unit
-ame-window-engine-status-label = Engine Status:
-ame-window-engine-injection-status-not-injecting-label = Not Injecting
-ame-window-engine-injection-status-injecting-label = Injecting...
-ame-window-toggle-injection-button = Toggle Injection
-ame-window-fuel-status-label = Fuel Status:
-ame-window-fuel-not-inserted-text = No fuel inserted
-ame-window-injection-amount-label = Injection amount:
-ame-window-refresh-parts-button = Refresh Parts
-ame-window-core-count-label = Core count:
-ame-window-power-currentsupply-label = Current power supply:
-ame-window-power-targetsupply-label = Targeted power supply:
-ame-window-eject-button = Eject
-ame-window-increase-fuel-button = Increase
-ame-window-decrease-fuel-button = Decrease
+ame-window-title = Μονάδα Ελέγχου Αντιύλης
+ame-window-engine-status-label = Κατάσταση Κινητήρα:
+ame-window-engine-injection-status-not-injecting-label = Δεν Εγχέει
+ame-window-engine-injection-status-injecting-label = Εγχέει...
+ame-window-toggle-injection-button = Εναλλαγή Έγχυσης
+ame-window-fuel-status-label = Κατάσταση Καυσίμων:
+ame-window-fuel-not-inserted-text = Δεν έχει εισαχθεί καύσιμο
+ame-window-injection-amount-label = Ποσότητα έγχυσης:
+ame-window-refresh-parts-button = Ανανέωση Εξαρτημάτων
+ame-window-core-count-label = Αριθμός πυρήνων:
+ame-window-power-currentsupply-label = Τρέχουσα παροχή ρεύματος:
+ame-window-power-targetsupply-label = Στοχευμένη παροχή ρεύματος:
+ame-window-eject-button = Εξαγωγή
+ame-window-increase-fuel-button = Αύξηση
+ame-window-decrease-fuel-button = Μείωση

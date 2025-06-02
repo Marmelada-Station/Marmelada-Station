@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = Σταθεροποιημένο
+anchorable-unanchored = Αποσταθεροποιημένο
+anchorable-occupied = Τα πλακάκια είναι πιασμένα

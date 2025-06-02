@@ -10,13 +10,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-department-Cargo-description = Complete bounties, earn Spessos, and order useful supplies for the crew.
-department-Civilian-description = Perform small helpful tasks to keep the station sane and well catered.
-department-Command-description = Manage the crew and keep them working efficiently.
-department-CentralCommand-description = Manage the crew and keep them working efficiently.
-department-Engineering-description = Keep the power on and the station operational.
-department-Medical-description = Keep the crew healthy.
-department-Security-description = Keep the peace around the station.
-department-Science-description = Research artifacts and anomalies to invent new equipment for the station
-department-Silicon-description = Obey your laws and serve the crew.
-department-Specific-description = Jobs that not all stations have.
+department-Cargo-description = Μάζεψε αμοιβές, κέρδισε Σπέσος, και παρήγγειλε χρήσιμες προμήθειες για το πλήρωμα.
+department-Civilian-description = Εκτέλεσε μικροεργασίες ώστε ο σταθμός να είναι λειτουργικός και να εξυπηρετείται επαρκώς.
+department-Command-description = Διαχειρίσου το πλήρωμα και φρόντισε να δουλεύει αποτελεσματικά.
+department-CentralCommand-description = Διαχειρίσου το πλήρωμα και φρόντισε να δουλεύει αποτελεσματικά.
+department-Engineering-description = Κράτα το ρεύμα ενεργό και τον σταθμό σε λειτουργία.
+department-Medical-description = Εξασφαλίσου την υγεία του πληρώματος.
+department-Security-description = Επίβαλλε τάξη γύρω από τον σταθμό.
+department-Science-description = Ερεύνησε τεχνουργήματα και ανωμαλίες για να εφεύρεις νέο εξοπλισμό για το σταθμό.
+department-Silicon-description = Υπάκουσε στους νόμους σου και υπηρέτησε το πλήρωμα.
+department-Specific-description = Επαγγέλματα που δεν έχουν όλοι οι σταθμοί.
