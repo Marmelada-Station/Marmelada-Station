@@ -34,7 +34,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## Documentation/Wiki
 
-Το Goob Station [docs site](https://docs.goobstation.com/) έχει documentation σχετικά με το περιεχόμενο του GS14, το game engine, το game design και πολλά άλλα. Έχει επίσης πολλές χρήσιμες πληροφορίες για νέους συνεισφέροντες σε αυτό το πρότζεκτ.
+Το Goob Station [documentation site](https://docs.goobstation.com/) έχει documentation σχετικά με το περιεχόμενο του GS14, το game engine, το game design και πολλά άλλα. Έχει επίσης πολλές χρήσιμες πληροφορίες για νέους συνεισφέροντες σε αυτό το πρότζεκτ.
 
 ## Contributing
 
