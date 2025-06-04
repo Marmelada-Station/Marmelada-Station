@@ -30,7 +30,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## Links
 
-[Goob Station Discord Server](https://discord.gg/goobstation)
+[Marmelada Station Discord Server](https://discord.gg/NMkWtR7Vuc)
 
 ## Documentation/Wiki
 
@@ -38,7 +38,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## Contributing
 
-Δεχόμαστε με χαρά συνεισφορές από οποιονδήποτε. Μπες στο [Development Discord Server](https://discord.gg/zXk2cyhzPN) αν θες να βοηθήσεις. Μη διστάσετε να ελέγξετε τα [issues](https://github.com/Marmelada-Station/Marmelada-Station/issues) που πρέπει να λυθούν και στα οποία ο καθένας μπορεί να δουλέψει. Μην φοβάστε να ζητήσετε βοήθεια!!!!
+Δεχόμαστε με χαρά συνεισφορές από οποιονδήποτε. Μπες στον [Discord Server]([https://discord.gg/zXk2cyhzPN](https://discord.gg/NMkWtR7Vuc)) αν θες να βοηθήσεις. Μη διστάσετε να ελέγξετε τα [issues](https://github.com/Marmelada-Station/Marmelada-Station/issues) που πρέπει να λυθούν και στα οποία ο καθένας μπορεί να δουλέψει. Μην φοβάστε να ζητήσετε βοήθεια!!!!
 
 Ενώ ακολουθούμαι τις [Οδηγίες Συνεισφοράς του Space Station 14](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html), δεν είναι απαραίτητο για το Marmelada Station. Σας συνιστούμε, όμως, να τις μελετήσετε για τις καλύτερες πρακτικές.
 
