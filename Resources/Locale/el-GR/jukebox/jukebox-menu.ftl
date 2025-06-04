@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-jukebox-menu-title = Jukebox
-jukebox-menu-selectedsong = Selected Song:
+jukebox-menu-title = Τζούκμποξ 
+jukebox-menu-selectedsong = Επιλεγμένο Τραγούδι:
 jukebox-menu-buttonplay = Play
 jukebox-menu-buttonpause = Pause
 jukebox-menu-buttonstop = Stop

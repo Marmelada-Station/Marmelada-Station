@@ -19,5 +19,5 @@ department-Engineering = Μηχανολογία
 department-Medical = Ιατρική
 department-Security = Ασφάλεια
 department-Science = Επιστήμη
-department-Silicon = Silicon
+department-Silicon = Σίλικον
 department-Specific = Μοναδικό για τον σταθμό
