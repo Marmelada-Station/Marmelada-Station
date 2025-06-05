@@ -8,22 +8,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Generic
-lathe-category-ammo = Ammo
-lathe-category-circuitry = Circuitry
-lathe-category-lights = Lights
-lathe-category-parts = Parts
-lathe-category-robotics = Robotics
-lathe-category-tools = Tools
-lathe-category-weapons = Weapons
+lathe-category-ammo = Πυρομαχικά
+lathe-category-circuitry = Κυκλώματα
+lathe-category-lights = Φωτισμός
+lathe-category-parts = Ανταλλακτικά
+lathe-category-robotics = Ρομποτικά
+lathe-category-tools = Εργαλεία
+lathe-category-weapons = Όπλα
 # Biogen
-lathe-category-food = Food
-lathe-category-chemicals = Chemicals
-lathe-category-materials = Materials
+lathe-category-food = Τρόφιμα
+lathe-category-chemicals = Χημικά
+lathe-category-materials = Υλικά
 # Uniform
-lathe-category-bedsheets = Bedsheets
-lathe-category-carpets = Carpets
-lathe-category-coats = Coats
-lathe-category-command = Command
-lathe-category-hats = Hats
-lathe-category-jumpsuits = Jumpsuits
-lathe-category-neck = Neck
+lathe-category-bedsheets = Σεντόνια
+lathe-category-carpets = Χαλιά
+lathe-category-coats = Παλτά
+lathe-category-command = Διοίκηση
+lathe-category-hats = Καπέλα
+lathe-category-jumpsuits = Φόρμες
+lathe-category-neck = Λαιμός

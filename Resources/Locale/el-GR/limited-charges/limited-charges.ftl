@@ -8,12 +8,12 @@
 
 limited-charges-charges-remaining =
     { $charges ->
-        [one] It has [color=fuchsia]{ $charges }[/color] charge remaining.
-       *[other] It has [color=fuchsia]{ $charges }[/color] charges remaining.
+        [one] Έχει ακόμα [color=fuchsia]{ $charges }[/color] φόρτιση.
+       *[other] Έχει ακόμα [color=fuchsia]{ $charges }[/color] φορτίσεις.
     }
-limited-charges-max-charges = It's at [color=green]maximum[/color] charges.
+limited-charges-max-charges = Είναι σε [color=green]μέγιστη[/color] φόρτιση.
 limited-charges-recharging =
     { $seconds ->
-        [one] There is [color=yellow]{ $seconds }[/color] second left until the next charge.
-       *[other] There are [color=yellow]{ $seconds }[/color] seconds left until the next charge.
+        [one] Απομένει [color=yellow]{ $seconds }[/color] δευτερόλεπτο μέχρι την επόμενη φόρτιση.
+       *[other] Απομένουν [color=yellow]{ $seconds }[/color] δευτερόλεπτα μέχρι την επόμενη φόρτιση.
     }

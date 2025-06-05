@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-marking-CatEars = Cat Ears
-marking-CatTail = Cat Tail
+marking-CatEars = Αφτιά Γάτας
+marking-CatTail = Ουρά Γάτας

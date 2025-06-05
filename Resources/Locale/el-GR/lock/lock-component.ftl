@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lock-comp-on-examined-is-locked = The { $entityName } seems to be locked.
-lock-comp-on-examined-is-unlocked = The { $entityName } seems to be unlocked.
-lock-comp-do-lock-success = You lock the { $entityName }.
-lock-comp-do-unlock-success = You unlock the { $entityName }.
-lock-comp-has-user-access-fail = Access denied
-lock-comp-generic-fail = { CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BE($target) } locked.
+lock-comp-on-examined-is-locked = Φαίνεται ότι {POSS-PRONOUN($entityName)} { $entityName } είναι ήδη κλειδωμέν{DAT-OBJ($entityName)}.
+lock-comp-on-examined-is-unlocked = Φαίνεται ότι {POSS-PRONOUN($entityName)} { $entityName } είναι ξεκλείδωτ{DAT-OBJ($entityName)}.
+lock-comp-do-lock-success = Κλειδώνεις {POSS-PRONOUN($entityName)} { $entityName }.
+lock-comp-do-unlock-success = Ξεκλειδώνεις {POSS-PRONOUN($entityName)} { $entityName }.
+lock-comp-has-user-access-fail = Η πρόσβαση απορρίφθηκε.
+lock-comp-generic-fail = { CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BE($target) } κλειδωθεί.
 
 ## ToggleLockVerb
 
-toggle-lock-verb-unlock = Unlock
-toggle-lock-verb-lock = Lock
+toggle-lock-verb-unlock = Ξεκλείδωμα
+toggle-lock-verb-lock = Κλείδωμα

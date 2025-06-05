@@ -14,11 +14,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-speech-spell-forcewall = TARCOL MINTI ZHERI
-action-speech-spell-knock = AULIE OXIN FIERA
-action-speech-spell-smite = EI NATH!
-action-speech-spell-summon-magicarp = AIE KHUSE EU
-action-speech-spell-fireball = ONI'SOMA!
-action-speech-spell-summon-guns = YOR'NEE VES-KORFA
-action-speech-spell-summon-magic = RYGOIN FEMA-VERECO
-action-speech-spell-mind-swap = GIN'YU CAPAN!
+action-speech-spell-forcewall = ΤΑΡΚΟΛ ΜΙΝΤΙ ΖΕΡΙ
+action-speech-spell-knock = ΑΓΙΟΥΛΙΕ ΟΞΙΝ ΦΙΕΡΑ
+action-speech-spell-smite = ΕΙ ΝΑΘ!
+action-speech-spell-summon-magicarp = ΑΙΕ ΚΟΥΣΕ ΕΟΥ
+action-speech-spell-fireball = ΟΝΙ'ΣΟΜΑ!
+action-speech-spell-summon-guns = ΓΙΟΡ'ΝΙ ΒΕΣ-ΚΟΡΦΑ 
+action-speech-spell-summon-magic = ΡΙΓΚΟΙΝ ΦΕΜΑ-ΒΕΡΕΚΟ
+action-speech-spell-mind-swap = ΓΚΙΝ'ΓΙΟΥ ΚΑΠΑΝ!

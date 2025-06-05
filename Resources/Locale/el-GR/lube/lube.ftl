@@ -7,9 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lube-success = { CAPITALIZE(THE($target)) } has been covered in lube!
-lubed-name-prefix = lubed { $baseName }
-lube-failure = Can't cover { THE($target) } in lube!
-lube-slip = { CAPITALIZE(THE($target)) } slips out of your hands!
-lube-verb-text = Apply Lube
-lube-verb-message = Lube an object
+lube-success = { CAPITALIZE(DAT-OBJ($target)) } { CAPITALIZE($target) } έγινε λούτσα με λιπαντικό!
+lubed-name-prefix = έκανε λούτσα με λιπαντικό {POSS-PRONOUN($baseName)} { $baseName }
+lube-failure = Δεν μπορεί να κάνει {POSS-PRONOUN($baseName)} { $target } λούτσα με λιπαντικό!
+lube-slip = { CAPITALIZE(DAT-OBJ($target)) } { CAPITALIZE($target) } γλιστράει από τα χέρια σου!
+lube-verb-text = Εφάρμοσε Λιπαντικό
+lube-verb-message = Λίπανση αντικειμένου

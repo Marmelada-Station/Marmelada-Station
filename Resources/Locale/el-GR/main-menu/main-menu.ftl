@@ -7,17 +7,17 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 main-menu-invalid-username-with-reason =
-    Invalid username:
+    Μη έγκυρο όνομα χρήστη:
     { $invalidReason }
-main-menu-invalid-username = Invalid username
+main-menu-invalid-username = Μη έγκυρο όνομα χρήστη
 main-menu-failed-to-connect =
-    Failed to connect:
+    Απέτυχε η σύνδεση:
     { $reason }
-main-menu-username-label = Username:
-main-menu-username-text = Username
-main-menu-address-label = Server Address:
-main-menu-join-public-server-button = Join Public Server
-main-menu-join-public-server-button-tooltip = Cannot connect to public server with a debug build.
-main-menu-direct-connect-button = Direct Connect
-main-menu-options-button = Options
-main-menu-quit-button = Quit
+main-menu-username-label = Όνομα Χρήστη:
+main-menu-username-text = Όνομα Χρήστη
+main-menu-address-label = Διεύθυνση Διακομιστή:
+main-menu-join-public-server-button = Σύνδεση σε Δημόσιο Διακομιστή
+main-menu-join-public-server-button-tooltip = Δεν είναι δυνατή η σύνδεση σε δημόσιο διακομιστή με debug build.
+main-menu-direct-connect-button = Άμεση Σύνδεση
+main-menu-options-button = Ρυθμίσεις
+main-menu-quit-button = Έξοδος

@@ -12,26 +12,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lobby-state-paused = Paused
-lobby-state-soon = Round starting soon
-lobby-state-right-now-question = Right Now?
-lobby-state-right-now-confirmation = Right Now
-lobby-state-round-start-countdown-text = Round starts In: { $timeLeft }
-lobby-state-ready-button-join-state = Join
-lobby-state-ready-button-ready-up-state = Ready Up
-lobby-state-player-status-not-ready = Not Ready
-lobby-state-player-status-ready = Ready
-lobby-state-player-status-observer = Observer
-lobby-state-player-status-round-not-started = The round hasn't started yet
+lobby-state-paused = Σε Παύση
+lobby-state-soon = Ο γύρος θα ξεκινήσει σύντομα
+lobby-state-right-now-question = Τώρα αμέσως;
+lobby-state-right-now-confirmation = Τώρα αμέσως
+lobby-state-round-start-countdown-text = Ο γύρος ξεκινά σε: { $timeLeft }
+lobby-state-ready-button-join-state = Συμμετοχή
+lobby-state-ready-button-ready-up-state = Δήλωσε Ετοιμότητα
+lobby-state-player-status-not-ready = Δεν είστε έτοιμοι
+lobby-state-player-status-ready = Είστε έτοιμοι
+lobby-state-player-status-observer = Παρατηρητής
+lobby-state-player-status-round-not-started = Ο γύρος δεν έχει ξεκινήσει ακόμα
 lobby-state-player-status-round-time =
-    The round time is: { $hours } { $hours ->
-        [1] hour
-       *[other] hours
-    } and { $minutes } { $minutes ->
-        [1] minute
-       *[other] minutes
+    Ο χρόνος γύρου είναι: { $hours } { $hours ->
+        [1] ώρα
+       *[other] ώρες
+    } και { $minutes } { $minutes ->
+        [1] λεπτό
+       *[other] λεπτά
     }
-lobby-state-song-text = Playing: [color=white]{ $songTitle }[/color] by [color=white]{ $songArtist }[/color]
-lobby-state-song-no-song-text = No lobby song playing.
-lobby-state-song-unknown-title = [color=dimgray]Unknown title[/color]
-lobby-state-song-unknown-artist = [color=dimgray]Unknown artist[/color]
+lobby-state-song-text = Τώρα παίζει: [color=white]{ $songTitle }[/color] από [color=white]{ $songArtist }[/color]
+lobby-state-song-no-song-text = Δεν παίζει τραγούδι στο λόμπι.
+lobby-state-song-unknown-title = [color=dimgray]Άγνωστος τίτλος[/color]
+lobby-state-song-unknown-artist = [color=dimgray]Άγνωστος καλλιτέχνης[/color]

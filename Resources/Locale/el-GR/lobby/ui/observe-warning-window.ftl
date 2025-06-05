@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-observe-nevermind = Nevermind
-observe-confirm = Observe
-observe-warning-1 = Are you sure you want to observe?
-observe-warning-2 = You cannot play in the round if you do so.
-observe-warning-window-title = Warning
-observe-as-admin = Admin Observe
-observe-as-player = Player Observe
+observe-nevermind = Άκυρο
+observe-confirm = Παρακολούθηση
+observe-warning-1 = Είστε σίγουροι ότι θέλετε να παρακολουθήσετε;
+observe-warning-2 = Δεν θα μπορείτε να παίξετε στον γύρο αν το κάνετε αυτό.
+observe-warning-window-title = Προσοχή
+observe-as-admin = Παρακολούθηση Διαχειριστή
+observe-as-player = Παρακολούθηση Παίχτη

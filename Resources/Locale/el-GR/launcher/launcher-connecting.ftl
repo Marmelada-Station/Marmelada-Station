@@ -14,22 +14,22 @@
 ### Connecting dialog when you start up the game
 
 connecting-title = Space Station 14
-connecting-exit = Exit
-connecting-retry = Retry
-connecting-reconnect = Reconnect
-connecting-copy = Copy Message
-connecting-redial = Relaunch
-connecting-redial-wait = Please wait: { TOSTRING($time, "G3") }
-connecting-in-progress = Connecting to server...
-connecting-disconnected = Disconnected from server:
-connecting-tip = Don't die!
+connecting-exit = Έξοδος
+connecting-retry = Δοκιμάστε Ξανά
+connecting-reconnect = Επανασύνδεση
+connecting-copy = Αντιγραφή Μηνύματος
+connecting-redial = Επανεκκίνηση
+connecting-redial-wait = Παρακαλώ περιμένετε: { TOSTRING($time, "G3") }
+connecting-in-progress = Σύνδεση στον διακομιστή...
+connecting-disconnected = Αποσύνδεση από τον διακομιστή:
+connecting-tip = Μην πεθάνεις!
 connecting-window-tip = Tip { $numberTip }
 connecting-version = ver 0.1
 connecting-fail-reason =
-    Failed to connect to server:
+    Αποτυχία σύνδεσης με διακομιστή:
     { $reason }
-connecting-state-NotConnecting = Not connecting
-connecting-state-ResolvingHost = Resolving host
-connecting-state-EstablishingConnection = Establishing connection
-connecting-state-Handshake = Handshake
-connecting-state-Connected = Connected
+connecting-state-NotConnecting = Χωρίς σύνδεση
+connecting-state-ResolvingHost = Επίλυση host
+connecting-state-EstablishingConnection = Δημιουργία σύνδεσης
+connecting-state-Handshake = Χειραψία
+connecting-state-Connected = Συνδεδεμένος

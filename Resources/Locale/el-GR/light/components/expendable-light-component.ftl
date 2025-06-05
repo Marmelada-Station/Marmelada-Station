@@ -7,14 +7,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-expendable-light-start-verb = Start Light
-expendable-light-spent-flare-name = spent flare
-expendable-light-spent-flare-desc = It looks like this flare has burnt out. What a bummer.
-expendable-light-burnt-torch-name = burnt torch
-expendable-light-burnt-torch-desc = It looks like this torch has burnt out. What a bummer.
-expendable-light-spent-green-glowstick-name = spent green glowstick
-expendable-light-spent-red-glowstick-name = spent red glowstick
-expendable-light-spent-purple-glowstick-name = spent purple glowstick
-expendable-light-spent-yellow-glowstick-name = spent purple glowstick
-expendable-light-spent-blue-glowstick-name = spent blue glowstick
-expendable-light-spent-glowstick-desc = It looks like this glowstick has stopped glowing. How tragic.
+expendable-light-start-verb = Έναρξη Φωτισμού
+expendable-light-spent-flare-name = χρησιμοποιημένη φωτοβολίδα
+expendable-light-spent-flare-desc = Φαίνεται ότι αυτή η φωτοβολίδα έχει καεί. Τι κρίμα.
+expendable-light-burnt-torch-name = καμένος πυρσός
+expendable-light-burnt-torch-desc = Φαίνεται ότι αυτός ο πυρσός έχει καεί. Τι κρίμα.
+expendable-light-spent-green-glowstick-name = χρησιμοποιημένο πράσινο glowstick
+expendable-light-spent-red-glowstick-name = χρησιμοποιημένο κόκκινο glowstick
+expendable-light-spent-purple-glowstick-name = χρησιμοποιημένο μωβ glowstick
+expendable-light-spent-yellow-glowstick-name = χρησιμοποιημένο κίτρινο glowstick
+expendable-light-spent-blue-glowstick-name = χρησιμοποιημένο μπλε glowstick
+expendable-light-spent-glowstick-desc = Φαίνεται ότι αυτό το glowstick σταμάτησε να λάμπει. Τι τραγικό.
