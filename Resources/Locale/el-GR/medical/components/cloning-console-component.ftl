@@ -12,31 +12,31 @@
 
 ## UI
 
-cloning-console-window-title = Cloning Console
-cloning-console-window-clone-button-text = Clone
-cloning-console-window-scanner-id = ID: [color=white]{ $scannerOccupantName }[/color]
-cloning-console-window-pod-id = ID: [color=white]{ $podOccupantName }[/color]
-cloning-console-window-no-patient-data-text = No patient data.
-cloning-console-window-id-blank = ID:
-cloning-console-window-scanner-details-label = Genetic Scanner Status
-cloning-console-window-pod-details-label = Cloning Pod Status
-cloning-console-window-no-scanner-detected-label = Link a genetic scanner with a multitool or network configurator.
-cloning-console-window-no-clone-pod-detected-label = Link a cloning pod with a multitool or network configurator.
-cloning-console-window-scanner-far-label = Genetic Scanner Too Far Away
-cloning-console-window-clone-pod-far-label = Cloning Pod Too Far Away
-cloning-console-eject-body-button = Eject Body
-cloning-console-neural-interface-label = Neural Interface:
-cloning-console-no-mind-activity-text = Neural Interface: [color=red]No Activity[/color]
-cloning-console-mind-present-text = Neural Interface: [color=green]Consciousness Detected[/color]
-cloning-console-component-msg-ready = Ready To Clone
-cloning-console-component-msg-empty = No Body Detected
-cloning-console-component-msg-scanner-occupant-alive = Not Ready: Scanner Occupant Living
-cloning-console-component-msg-already-alive = Not Ready: Metaphysical Conflict
-cloning-console-component-msg-occupied = Not Ready: The Pod Already Contains A Clone
-cloning-console-component-msg-already-cloning = Not Ready: Pod Network Conflict
-cloning-console-component-msg-incomplete = Not Ready: Cloning In Progress
-cloning-console-component-msg-no-cloner = Not Ready: No Cloner Detected
-cloning-console-component-msg-no-mind = Not Ready: No Soul Activity Detected
-cloning-console-chat-error = ERROR: INSUFFICIENT BIOMASS. CLONING THIS BODY REQUIRES { $units } UNITS OF BIOMASS.
-cloning-console-uncloneable-trait-error = ERROR: CLONING IS IMPOSSIBLE DUE TO ABNORMAL BODY COMPOSITION.
-cloning-console-cellular-warning = WARNING: GENEFSCK CONFIDENCE SCORE IS { $percent }%. CLONING MAY HAVE UNEXPECTED RESULTS.
+cloning-console-window-title = Κονσόλα Κλωνοποίησης
+cloning-console-window-clone-button-text = Κλωνοποίηση
+cloning-console-window-scanner-id = Ταυτότητα: [color=white]{ $scannerOccupantName }[/color]
+cloning-console-window-pod-id = Ταυτότητα: [color=white]{ $podOccupantName }[/color]
+cloning-console-window-no-patient-data-text = Δεν υπάρχουν δεδομένα ασθενών..
+cloning-console-window-id-blank = Ταυτότητα:
+cloning-console-window-scanner-details-label = Κατάσταση Γενετικού Σαρωτή
+cloning-console-window-pod-details-label = Κατάσταση Θαλάμου κλωνοποίησης
+cloning-console-window-no-scanner-detected-label = Σύνδεσε έναν γενετικό σαρωτή με ένα πολυεργαλείο ή ένα διαμορφωτή δικτύου.
+cloning-console-window-no-clone-pod-detected-label = Σύνδεσε έναν θάλαμο κλωνοποίησης με ένα πολυεργαλείο ή ένα διαμορφωτή δικτύου.
+cloning-console-window-scanner-far-label = Ο Γενετικός Σαρωτής είναι πολύ μακριά
+cloning-console-window-clone-pod-far-label = Ο Θάλαμος Κλωνοποίησης είναι πολύ μακριά
+cloning-console-eject-body-button = Βγάλτε το Σώμα
+cloning-console-neural-interface-label = Νευρικό Interface:
+cloning-console-no-mind-activity-text = Νευρικό Interface: [color=red]Καμία Δραστηριότητα[/color]
+cloning-console-mind-present-text = Νευρικό Interface: [color=green]Ανιχνεύθηκε Συνείδηση[/color]
+cloning-console-component-msg-ready = Έτοιμο για Κλωνοποίηση
+cloning-console-component-msg-empty = Δεν Εντοπίστηκε Σώμα
+cloning-console-component-msg-scanner-occupant-alive = Δεν είναι έτοιμο: Scanner Occupant Living # el-gr comment: βάλε μετάφραση μετά
+cloning-console-component-msg-already-alive = Δεν είναι έτοιμο: Μεταφυσική Σύγκρουση
+cloning-console-component-msg-occupied = Δεν είναι έτοιμο: Ο Θάλαμος περιέχει ήδη έναν κλώνο
+cloning-console-component-msg-already-cloning = Δεν είναι έτοιμο: Σύγκρουση Δικτύου Θαλάμου
+cloning-console-component-msg-incomplete = Δεν είναι έτοιμο: Κλωνοποίηση εν Εξέλιξη
+cloning-console-component-msg-no-cloner = Δεν είναι έτοιμο: Δεν Εντοπίστηκες Κλωνοποιός
+cloning-console-component-msg-no-mind = Δεν είναι έτοιμο: Δεν Εντοπίστηκε Δραστηριότητα Ψυχής
+cloning-console-chat-error = ΣΦΑΛΜΑ: ΑΝΕΠΑΡΚΗΣ ΒΙΟΜΑΖΑ. Η ΚΛΩΝΟΠΟΙΗΣΗ ΑΥΤΟΥ ΤΟΥ ΣΩΜΑΤΟΣ ΑΠΑΙΤΕΙ { $units } ΜΟΝΑΔΕΣ ΒΙΟΜΑΖΑΣ.
+cloning-console-uncloneable-trait-error = ΣΦΑΛΜΑ: Η ΚΛΩΝΟΠΟΙΗΣΗ ΕΙΝΑΙ ΑΔΥΝΑΤΗ ΛΟΓΩ ΤΗΣ ΑΝΩΜΑΛΗΣ ΔΟΜΗΣ ΤΟΥ ΣΩΜΑΤΟΣ.
+cloning-console-cellular-warning = ΠΡΟΕΙΔΟΠΟΙΗΣΗ: GENEFSCK ΣΚΟΡ ΕΜΠΙΣΤΟΣΥΝΗΣ ΕΙΝΑΙ ΣΤΑ { $percent }%. Η ΚΛΩΝΟΠΟΙΗΣΗ ΜΠΟΡΕΙ ΝΑ ΕΧΕΙ ΑΠΡΟΒΛΕΠΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ.

@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-mech-soundboard-BikeHorn = Honk!
-mech-soundboard-CluwneHorn = !knoH
-mech-soundboard-TrollAnimals = animal noises
-mech-soundboard-TrollEsword = e-sword
-mech-soundboard-TrollBeeping = Beep beep beep
+mech-soundboard-BikeHorn = Χονκ!
+mech-soundboard-CluwneHorn = !κνοΧ
+mech-soundboard-TrollAnimals = θόρυβοι ζώων
+mech-soundboard-TrollEsword = ε-σπαθί
+mech-soundboard-TrollBeeping = Μπιπ μπιπ μπιπ
 mech-soundboard-TrollMeeting = red vented!!!!!

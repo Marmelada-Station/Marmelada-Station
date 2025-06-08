@@ -1,7 +1,7 @@
-ent-ClothingBackpackChameleon = backpack
-    .desc = You wear this on your back and put items into it.
+ent-ClothingBackpackChameleon = σακίδιο
+    .desc = Το φοράς στην πλάτη σου και του βάζεις μέσα αντικείμενα.
     .suffix = Chameleon
-ent-ClothingBackpackWaterTank = backpack water tank
-    .desc = Holds a large amount of fluids. Supplies to spray nozzles in your hands, and has a slot on the side for said spray nozzles.
-ent-ClothingBackpackFirefighterTank = firefighter water tank backpack
-    .desc = A refrigerated water tank backpack that can switch modes to launch ATMOS resin or work as a high pressure extinguisher.
+ent-ClothingBackpackWaterTank = σακίδιο με δεξαμενή νερού
+    .desc = Χωράει μεγάλη ποσότητα υγρών. Σου παρέχει ακροφύσια ψεκασμού και διαθέτει υποδοχή στο πλάι για τα εν λόγω ακροφύσια ψεκασμού.
+ent-ClothingBackpackFirefighterTank = σακίδιο πυροσβέστη με δεξαμενή νερού
+    .desc = Ένα σακίδιο με μια παγωμένη δεξαμενή νερού που μπορεί να αλλάξει λειτουργίες για να εκτοξεύσει ρητίνη ATMOS ή να λειτουργήσει ως πυροσβεστήρας υψηλής πίεσης.

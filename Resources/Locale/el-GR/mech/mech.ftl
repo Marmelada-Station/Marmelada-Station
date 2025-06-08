@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mech-verb-enter = Enter
-mech-verb-exit = Remove pilot
-mech-equipment-begin-install = Installing the { THE($item) }...
-mech-equipment-finish-install = Finished installing the { THE($item) }
-mech-equipment-select-popup = { $item } selected
-mech-equipment-select-none-popup = Nothing selected
-mech-ui-open-verb = Open control panel
-mech-menu-title = mech control panel
-mech-integrity-display = Integrity: { $amount }%
-mech-energy-display = Energy: { $amount }%
-mech-energy-missing = Energy: MISSING
-mech-slot-display = Open Slots: { $amount }
-mech-no-enter = You cannot pilot this.
-mech-eject-pilot-alert = { $user } is pulling the pilot out of the { $item }!
+mech-verb-enter = Μπες μέσα
+mech-verb-exit = Αφαίρεσε τον πιλότο
+mech-equipment-begin-install = Γίνεται εγκατάσταση του { $item }...
+mech-equipment-finish-install = Τελείωσε η εγκατάσταση του $item
+mech-equipment-select-popup = { $item } επιλέχθηκε
+mech-equipment-select-none-popup = Δεν έχει επιλεχθεί τίποτα
+mech-ui-open-verb = Άνοιξε τον πίνακα ελέγχου
+mech-menu-title = πίνακας ελέγχου mech
+mech-integrity-display = Ακεραιότητα: { $amount }%
+mech-energy-display = Ενέργεια: { $amount }%
+mech-energy-missing = Ενέργεια: ΜΗΔΕΝΙΚΗ
+mech-slot-display = Ανοιχτές Υποδοχές: { $amount }
+mech-no-enter = Δεν μπορείς να το πιλοτάρεις.
+mech-eject-pilot-alert = {CAPITALIZE(POSS-PRONOUN($user))} { $user } βγάζει τον πιλότο από το { $item }!
