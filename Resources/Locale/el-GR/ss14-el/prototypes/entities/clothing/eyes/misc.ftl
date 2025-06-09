@@ -1,7 +1,7 @@
-ent-ClothingEyesBlindfold = blindfold
-    .desc = The bind leading the blind.
-ent-ClothingEyesEyepatch = eyepatch
-    .desc = Yarr.
+ent-ClothingEyesBlindfold = μάσκα ματιών
+    .desc =  Ο τυφλός που οδηγεί τους τυφλούς.
+ent-ClothingEyesEyepatch = κάλυμμα ματιών
+    .desc = Γιαρ.
 ent-ClothingEyesEyepatchFlipped = { ent-ClothingEyesEyepatch }
     .suffix = flipped
     .desc = { ent-ClothingEyesEyepatch.desc }

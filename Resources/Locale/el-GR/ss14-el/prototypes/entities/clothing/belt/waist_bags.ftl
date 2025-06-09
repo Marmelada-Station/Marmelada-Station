@@ -1,2 +1,2 @@
-ent-ClothingBeltStorageWaistbag = leather waist bag
-    .desc = A leather waist bag meant for carrying small items.
+ent-ClothingBeltStorageWaistbag = δερμάτινο τσαντάκι μέσης
+    .desc = Ένα δερμάτινο τσαντάκι μέσης που προορίζεται για τη μεταφορά μικρών αντικειμένων.

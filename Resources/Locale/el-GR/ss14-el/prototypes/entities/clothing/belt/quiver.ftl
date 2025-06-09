@@ -1,2 +1,2 @@
-ent-ClothingBeltQuiver = quiver
-    .desc = Can hold up to 15 arrows, and fits snug around your waist.
+ent-ClothingBeltQuiver = φαρέτρα
+    .desc = Μπορεί να χωρέσει έως και 15 βέλη, και εφαρμόζει άνετα γύρω από τη μέση.
