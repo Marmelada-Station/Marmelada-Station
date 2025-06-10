@@ -1,5 +1,5 @@
-ent-ClothingHandsChameleon = black gloves
-    .desc = Regular black gloves that do not keep you from frying.
+ent-ClothingHandsChameleon = μαύρα γάντια
+    .desc = Συνηθισμένα μαύρα γάντια που δεν σε αποτρέπουν από το να ψηθείς ζωντανός.
     .suffix = Chameleon
 ent-ClothingHandsChameleonThief = { ent-ClothingHandsChameleon }
     .suffix = Chameleon, Thieving
