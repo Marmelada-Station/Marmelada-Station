@@ -1,2 +1,2 @@
-ent-ClothingNeckStoleChaplain = chaplain stole
-    .desc = An elegantly designed stole, with a vibrant gold plus on either end.
+ent-ClothingNeckStoleChaplain = επιτραχήλιο ιερέα
+    .desc = Ένα κομψά σχεδιασμένο επιτραχήλιο, με έντονο χρυσό σε κάθε άκρο.

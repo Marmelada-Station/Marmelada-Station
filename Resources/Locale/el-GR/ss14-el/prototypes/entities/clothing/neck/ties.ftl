@@ -1,6 +1,6 @@
-ent-ClothingNeckTieRed = red-tie
-    .desc = A neosilk clip-on red tie.
-ent-ClothingNeckTieDet = detective's tie
-    .desc = A loosely tied necktie, a perfect accessory for the over-worked detective.
-ent-ClothingNeckTieSci = scientist's tie
-    .desc = Why do we all have to wear these ridiculous ties?
+ent-ClothingNeckTieRed = κόκκινη γραβάτα
+    .desc = Μια κόκκινη γραβάτα με κλιπ, από νεο-μετάξι.
+ent-ClothingNeckTieDet = γραβάτα ντετέκτιβ
+    .desc = Μια χαλαρά δεμένη γραβάτα, το τέλειο αξεσουάρ για τον υπερφορτωμένο ντετέκτιβ.
+ent-ClothingNeckTieSci = γραβάτα επιστήμονα
+    .desc = Γιατί πρέπει όλοι να φοράμε αυτές τις γελοίες γραβάτες;

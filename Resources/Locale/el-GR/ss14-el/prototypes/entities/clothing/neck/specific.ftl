@@ -1,3 +1,3 @@
-ent-ClothingNeckChameleon = striped red scarf
-    .desc = A stylish striped red scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckChameleon = ριγέ κόκκινο κασκόλ
+    .desc = Ένα κομψό κόκκινο κασκόλ με ρίγες. Το τέλειο χειμερινό αξεσουάρ για όσους έχουν έντονη αίσθηση της μόδας και για όσους δεν μπορούν να αντέξουν το κρύο αεράκι στο λαιμό τους.
     .suffix = Chameleon
