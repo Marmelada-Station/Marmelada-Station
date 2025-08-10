@@ -4,6 +4,7 @@
 // SPDX-FileCopyrightText: 2025 coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
 // SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
 // SPDX-FileCopyrightText: 2025 gluesniffler <linebarrelerenthusiast@gmail.com>
+// SPDX-FileCopyrightText: 2025 loltart <lo1tartyt@gmail.com>
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -148,7 +149,7 @@ public sealed partial class DevilContractSystem : EntitySystem
             return;
 
         // Death to sec powergame
-        if (HasComp<MindShieldComponent>(args.Signer))
+        if (HasComp<MindShieldComponent>(args.Signer) && !HasComp<DevilComponent>(args.Signer))
         {
             var mindshieldedPopup = Loc.GetString("devil-contract-mind-shielded-failed");
             _popupSystem.PopupEntity(mindshieldedPopup, args.Signer, args.Signer, PopupType.MediumCaution);
@@ -322,9 +323,9 @@ public sealed partial class DevilContractSystem : EntitySystem
         }
     }
 
-    public void ApplyEffectToTarget(EntityUid target, DevilClausePrototype clause, Entity<DevilContractComponent>? contract)
+    private void ApplyEffectToTarget(EntityUid target, DevilClausePrototype clause, Entity<DevilContractComponent>? contract)
     {
-        _sawmill.Debug($"Applying {clause.ID} effect to {ToPrettyString(target)}");
+        //_sawmill.Debug($"Applying {clause.ID} effect to {ToPrettyString(target)}");
 
         AddComponents(target, clause);
 
@@ -346,8 +347,8 @@ public sealed partial class DevilContractSystem : EntitySystem
         if (clause.DamageModifierSet == null)
             return;
 
-        _damageable.SetDamageModifierSetId(target, clause.DamageModifierSet); // todo - refactor this shit to use a comp, because modifiers suck bad
-        _sawmill.Debug($"Changed {ToPrettyString(target)} modifier set to {clause.DamageModifierSet}");
+        _damageable.SetDamageModifierSetId(target, clause.DamageModifierSet);
+        // _sawmill.Debug($"Changed {ToPrettyString(target)} modifier set to {clause.DamageModifierSet}");
     }
 
     private void RemoveComponents(EntityUid target, DevilClausePrototype clause)
@@ -357,8 +358,8 @@ public sealed partial class DevilContractSystem : EntitySystem
 
         EntityManager.RemoveComponents(target, clause.RemovedComponents);
 
-        foreach (var component in clause.RemovedComponents)
-            _sawmill.Debug($"Removed {component.Value.Component} from {ToPrettyString(target)}");
+        //foreach (var component in clause.RemovedComponents)
+        //    _sawmill.Debug($"Removed {component.Value.Component} from {ToPrettyString(target)}");
     }
 
     private void AddImplants(EntityUid target, DevilClausePrototype clause)
@@ -368,8 +369,8 @@ public sealed partial class DevilContractSystem : EntitySystem
 
         _implant.AddImplants(target, clause.Implants);
 
-        foreach (var implant in clause.Implants)
-            _sawmill.Debug($"Added {implant} to {ToPrettyString(target)}");
+        //foreach (var implant in clause.Implants)
+        //    _sawmill.Debug($"Added {implant} to {ToPrettyString(target)}");
     }
 
     private void AddComponents(EntityUid target, DevilClausePrototype clause)
@@ -377,10 +378,10 @@ public sealed partial class DevilContractSystem : EntitySystem
         if (clause.AddedComponents == null)
             return;
 
-        EntityManager.AddComponents(target, clause.AddedComponents);
+        EntityManager.AddComponents(target, clause.AddedComponents, false);
 
-        foreach (var component in clause.AddedComponents)
-            _sawmill.Debug($"Added {component.Value.Component} to {ToPrettyString(target)}");
+        //foreach (var (name, data) in clause.AddedComponents)
+        //    _sawmill.Debug($"Added {data.Component} to {ToPrettyString(target)}");
     }
 
     private void SpawnItems(EntityUid target, DevilClausePrototype clause)
@@ -396,7 +397,7 @@ public sealed partial class DevilContractSystem : EntitySystem
             var spawnedItem = SpawnNextToOrDrop(item, target);
             _hands.TryPickupAnyHand(target, spawnedItem, false, false, false);
 
-            _sawmill.Debug($"Spawned {item} for {ToPrettyString(target)}");
+            //_sawmill.Debug($"Spawned {item} for {ToPrettyString(target)}");
         }
     }
 
@@ -406,7 +407,7 @@ public sealed partial class DevilContractSystem : EntitySystem
             return;
 
         _polymorph.PolymorphEntity(target, clause.Polymorph.Value);
-        _sawmill.Debug($"Polymorphed {ToPrettyString(target)} to {clause.Polymorph} ");
+        //_sawmill.Debug($"Polymorphed {ToPrettyString(target)} to {clause.Polymorph} ");
     }
 
     private void DoSpecialActions(EntityUid target, Entity<DevilContractComponent>? contract, DevilClausePrototype clause)
@@ -422,7 +423,7 @@ public sealed partial class DevilContractSystem : EntitySystem
 
         // you gotta cast this shit to object, don't ask me vro idk either
         RaiseLocalEvent(target, (object)ev, true);
-        _sawmill.Debug($"Raising event: {(object)ev} on {ToPrettyString(target)}. ");
+        //_sawmill.Debug($"Raising event: {(object)ev} on {ToPrettyString(target)}. ");
     }
 
     public void AddRandomNegativeClause(EntityUid target)
