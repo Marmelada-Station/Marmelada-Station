@@ -22,7 +22,7 @@ SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://github.com/Marmelada-Station/Marmelada-Station/blob/master/Resources/Textures/Logo/logo.svg" /></p>
+<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://github.com/Marmelada-Station/Marmelada-Station/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
 Αυτό είναι ένα fork από το κύριο repo του Goob Station, που είναι fork του Space Station 14, και ονομάζεται Marmelada Station. Για να σας αποτρέψουμε από το να κάνετε forking το RobustToolbox, ένα "content" pack φορτώνεται από τον client και τον server. Αυτό το content pack περιέχει όλα όσα χρειάζονται για να παίξετε το παιχνίδι σε έναν συγκεκριμένο διακομιστή. Aυτό είναι το content pack για το Marmelada Station.
 
