@@ -7,55 +7,55 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-borg-player-not-allowed = The brain doesn't fit!
-borg-player-not-allowed-eject = The brain was expelled from the chassis!
-borg-panel-not-open = The cyborg's panel isn't open...
-borg-mind-added = { CAPITALIZE($name) } powered on!
-borg-mind-removed = { CAPITALIZE($name) } shut off!
-borg-module-too-many = There's not enough room for another module...
-borg-module-duplicate = This module is already installed in this cyborg.
-borg-module-whitelist-deny = This module doesn't fit in this type of cyborg...
-borg-construction-guide-string = The cyborg limbs and torso must be attached to the endoskeleton.
-borg-ui-menu-title = Cyborg Interface
-borg-ui-charge-label = Charge: { $charge }%
-borg-ui-no-brain = No brain present
-borg-ui-remove-battery = Remove
-borg-ui-modules-label = Modules:
+borg-player-not-allowed = Ο εγκέφαλος δεν χωράει!
+borg-player-not-allowed-eject = Ο εγκέφαλος εκτοξεύτηκε από το σασί!
+borg-panel-not-open = Το πάνελ του σάιμποργκ δεν είναι ανοιχτό...
+borg-mind-added = { CAPITALIZE(DAT-OBJ($name)) } {$name} ενεργοποιήθηκε!
+borg-mind-removed =  { CAPITALIZE(DAT-OBJ($name)) } {$name} απενεργοποιήθηκε!
+borg-module-too-many = Δεν υπάρχει αρκετός χώρος για άλλη μονάδα...
+borg-module-duplicate = Αυτή η μονάδα έχει ήδη εγκατασταθεί σε αυτό το σάιμποργκ.
+borg-module-whitelist-deny = Αυτή η μονάδα δεν ταιριάζει σε αυτόν τον τύπο σάιμποργκ…
+borg-construction-guide-string = Τα άκρα και ο κορμός του σάιμποργκ πρέπει να συνδεθούν με τον ενδοσκελετό.
+borg-ui-menu-title = Σάιμποργκ Interface
+borg-ui-charge-label = Φόρτιση: { $charge }%
+borg-ui-no-brain = Δεν υπάρχει εγκέφαλος
+borg-ui-remove-battery = Αφαίρεση
+borg-ui-modules-label = Μονάδες:
 borg-ui-module-counter = { $actual }/{ $max }
 # Transponder
-borg-transponder-disabled-popup = A brain shoots out the top of { $name }!
-borg-transponder-disabling-popup = Your transponder begins to lock you out of the chassis!
-borg-transponder-destroying-popup = The self destruct of { $name } starts beeping!
-borg-transponder-emagged-disabled-popup = Your transponder's lights go out!
-borg-transponder-emagged-destroyed-popup = Your transponder's fuse blows!
+borg-transponder-disabled-popup = Ένας εγκέφαλος εκτοξεύεται από το πάνω μέρος του { $name }!
+borg-transponder-disabling-popup = Ο πομπός σου αρχίζει να σε κλειδώνει έξω από το σασί.
+borg-transponder-destroying-popup = Η αυτοκαταστροφή του { $name } αρχίζει να χτυπά!
+borg-transponder-emagged-disabled-popup = Τα φώτα του πομπού σου σβήνουν!
+borg-transponder-emagged-destroyed-popup = Η ασφάλεια του πομπού σου ανατινάζεται!
 
 ## Borg type selection UI.
 
-borg-select-type-menu-title = Select Chassis Type
-borg-select-type-menu-bottom-text = Chassis selection is irreversible
-borg-select-type-menu-available = Available types
-borg-select-type-menu-information = Information
-borg-select-type-menu-select-type = Select type to view information
-borg-select-type-menu-confirm = Confirm selection
-borg-select-type-menu-guidebook = Guidebook
+borg-select-type-menu-title = Διάλεξε Τύπο Σασί
+borg-select-type-menu-bottom-text = Η επιλογή του σασί είναι μη αναστρέψιμη.
+borg-select-type-menu-available = Διαθέσιμοι τύποι
+borg-select-type-menu-information = Πληροφορίες
+borg-select-type-menu-select-type = Επίλεξε έναν τύπο για να δεις τις πληροφορίες του
+borg-select-type-menu-confirm = Επιβεβαίωση επιλογής
+borg-select-type-menu-guidebook = Οδηγός
 
 ## Borg type information
 
-borg-type-generic-name = Generic
-borg-type-generic-desc = Jack of all trades, master of none. Do various random station tasks, or maybe help out the science department that built you.
-borg-type-generic-transponder = generic cyborg
-borg-type-engineering-name = Engineering
-borg-type-engineering-desc = Assist the engineering team in station construction, repairing damage, or fixing electrical and atmospheric issues.
-borg-type-engineering-transponder = engineering cyborg
-borg-type-mining-name = Salvage
-borg-type-mining-desc = Join salvage and help them mine for materials, scavenge wrecks, and fight off hostile wildlife.
-borg-type-mining-transponder = salvage cyborg
-borg-type-janitor-name = Janitor
-borg-type-janitor-desc = Keep the station nice and tidy, clean up spills, collect and properly dispose of trash left around by lazy crewmembers.
-borg-type-janitor-transponder = janitor cyborg
-borg-type-medical-name = Medical
-borg-type-medical-desc = Provide medical attention to crew who need it, either in medbay or in hazardous areas conventional paramedics cannot reach.
-borg-type-medical-transponder = medical cyborg
-borg-type-service-name = Service
-borg-type-service-desc = Help out with a wide range of crew services, ranging from serving snacks and drinks to botany to entertainment.
-borg-type-service-transponder = service cyborg
+borg-type-generic-name = Γενικό
+borg-type-generic-desc = Πολυτεχνίτης κι ερημοσπίτης. Κάνε διάφορες τυχαίες εργασίες στο σταθμό, ή βοήθησε το τμήμα επιστήμης που σε κατασκεύασε.
+borg-type-generic-transponder = γενικό σάιμποργκ
+borg-type-engineering-name = Μηχανικό
+borg-type-engineering-desc = Βοήθησε την ομάδα μηχανικών στην οικοδομή του σταθμού, στην επισκευή ζημιών ή στην αντιμετώπιση ηλεκτρικών και ατμοσφαιρικών προβλημάτων.
+borg-type-engineering-transponder = μηχανικό σάιμποργκ
+borg-type-mining-name = Δίασωση Υλικών
+borg-type-mining-desc = Γίνε μέλος της ομάδας διάσωσης υλικών και βοήθησε τους να εξορύξουν υλικά, να λουτάρουν ερείπια και στην αντιμετώπιση άγριας ζωής.
+borg-type-mining-transponder = σάιμποργκ διάσωσης υλικών
+borg-type-janitor-name = Επιστάτης
+borg-type-janitor-desc = Κράτα τον σταθμό καθαρό και τακτοποιημένο, σκούπισε χυμένα υγρά, μάζεψε και απόθεσε σωστά τα σκουπίδια που άφησαν οι τεμπέληδες του πληρώματος.
+borg-type-janitor-transponder = σάιμποργκ επιστάτης
+borg-type-medical-name = Γιατρός
+borg-type-medical-desc = Δώσε ιατρική φροντίδα στα μέλη του πληρώματος που τη χρειάζονται, είτε στο ιατρείο είτε σε επικίνδυνες περιοχές όπου οι τυπικοί παραϊατρικοί δεν μπορούν να φτάσουν.
+borg-type-medical-transponder = ιατρικό σάιμποργκ
+borg-type-service-name = Εξυπηρέτηση
+borg-type-service-desc = Βοήθησε σε μια ποικιλία υπηρεσιών για το πλήρωμα, από το σερβίρισμα σνακ και ποτών, μέχρι τη βοτανική και την ψυχαγωγία.
+borg-type-service-transponder = σάιμποργκ εξυπηρέτησης

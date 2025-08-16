@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-bloodstream-component-looks-pale = [color=bisque]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BASIC($target, "look", "looks") } pale.[/color]
-bloodstream-component-bleeding = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BE($target) } bleeding.[/color]
-bloodstream-component-profusely-bleeding = [color=crimson]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BE($target) } profusely bleeding![/color]
-bloodstream-component-wounds-cauterized = You feel your wounds painfully close!
+bloodstream-component-looks-pale = [color=bisque]{ CAPITALIZE(SUBJECT($target)) νιώθει χλωμά.[/color]
+bloodstream-component-bleeding = [color=red]{ CAPITALIZE(SUBJECT($target)) } αιμορραγεί.[/color]
+bloodstream-component-profusely-bleeding = [color=crimson]{ CAPITALIZE(SUBJECT($target)) } αιμορραγεί έντονα![/color]
+bloodstream-component-wounds-cauterized = Νιώθεις τα τραύματά σου να κλείνουν με πόνο!
