@@ -13,27 +13,27 @@
 ### GasTankComponent stuff.
 
 # Examine text showing pressure in tank.
-comp-gas-tank-examine = Pressure: [color=orange]{ PRESSURE($pressure) }[/color].
+comp-gas-tank-examine = Πίεση: [color=orange]{ PRESSURE($pressure) }[/color].
 # Examine text when internals are active.
-comp-gas-tank-connected = It's connected to an external component.
+comp-gas-tank-connected = Είναι συνδεδεμένο με ένα εξωτερικό εξάρτημα.
 # Examine text when valve is open or closed.
-comp-gas-tank-examine-open-valve = Gas release valve is [color=red]open[/color].
-comp-gas-tank-examine-closed-valve = Gas release valve is [color=green]closed[/color].
+comp-gas-tank-examine-open-valve = Η βαλβίδα απελευθέρωσης αερίου είναι [color=red]ανοιχτή[/color].
+comp-gas-tank-examine-closed-valve = Η βαλβίδα απελευθέρωσης αερίου είναι [color=green]κλειστή[/color].
 
 ## ControlVerb
 
-control-verb-open-control-panel-text = Open Control Panel
+control-verb-open-control-panel-text = Άνοιξε τον Πίνακα Ελέγχου
 
 ## UI
 
-gas-tank-window-internals-toggle-button = Toggle
-gas-tank-window-output-pressure-label = Output Pressure
-gas-tank-window-tank-pressure-text = Pressure: { $tankPressure } kPA
-gas-tank-window-internal-text = Internals: { $status }
-gas-tank-window-internal-connected = [color=green]Connected[/color]
-gas-tank-window-internal-disconnected = [color=red]Disconnected[/color]
+gas-tank-window-internals-toggle-button = Εναλλαγή
+gas-tank-window-output-pressure-label = Πίεση Εξόδου
+gas-tank-window-tank-pressure-text = Πίεση: { $tankPressure } kPA
+gas-tank-window-internal-text = Εσωτερικά: { $status }
+gas-tank-window-internal-connected = [color=green]Συνδεδεμένο[/color]
+gas-tank-window-internal-disconnected = [color=red]Αποσυνδεδεμένο[/color]
 
 ## Valve
 
-comp-gas-tank-open-valve = Open Valve
-comp-gas-tank-close-valve = Close Valve
+comp-gas-tank-open-valve = Άνοιγμα Βαλβίδας
+comp-gas-tank-close-valve = Κλείσιμο Βαλβίδας

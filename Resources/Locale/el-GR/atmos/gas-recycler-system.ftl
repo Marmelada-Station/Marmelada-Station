@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-gas-recycler-reacting = It is [color=green]converting[/color] waste gases.
-gas-recycler-low-pressure = The input pressure is [color=darkred]too low[/color].
-gas-recycler-low-temperature = The input temperature is [color=darkred]too low[/color].
+gas-recycler-reacting = [color=green]Μετατρέπει[/color] απαέρια.
+gas-recycler-low-pressure = Η πίεση εισόδου είναι [color=darkred]πολύ χαμηλή[/color].
+gas-recycler-low-temperature = Η θερμοκρασία εισόδου είναι [color=darkred]πολύ χαμηλή[/color].

@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-miner-mines-text = It mines [color=lightgray]{ $gas }[/color] when active.
-gas-miner-amount-text = It mines { $moles } moles of gas a second when active.
-gas-miner-temperature-text = Mined gas temp: { $tempK }K ({ $tempC }°C).
+gas-miner-mines-text = Όταν είναι ενεργό, εξάγει [color=lightgray]{ $gas }[/color].
+gas-miner-amount-text = Όταν είναι ενεργό, εξάγει { $moles } moles αερίου το δευτερόλεπτο.
+gas-miner-temperature-text = Θερμοκρασία εξορυγμένου αερίου: { $tempK }K ({ $tempC }°C).
 gas-miner-moles-cutoff-text = Surrounding moles cutoff: { $moles } moles.
-gas-miner-pressure-cutoff-text = Surrounding pressure cutoff: { $pressure } kPA.
-gas-miner-state-working-text = The miner is [color=green]active[/color] and mining gas.
-gas-miner-state-idle-text = The miner is [color=yellow]idle[/color] and not mining gas.
-gas-miner-state-disabled-text = The miner is [color=red]disabled[/color] and not mining gas.
+gas-miner-pressure-cutoff-text = Όριο mol περιβάλλοντος: { $pressure } kPA.
+gas-miner-state-working-text = Ο εξορύκτης είναι [color=green]ενεργός[/color] και εξορύσσει αέριο.
+gas-miner-state-idle-text = Ο εξορύκτης είναι [color=yellow]αδρανής[/color] και δεν εξορύσσει αέριο.
+gas-miner-state-disabled-text = Ο εξορύκτης είναι [color=red]απενεργοποιημένος[/color] και δεν εξορύσσει αέριο.

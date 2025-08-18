@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-pipe-sensor-distribution-loop = Distribution loop
-gas-pipe-sensor-waste-loop = Waste loop
-gas-pipe-sensor-mixed-air = Mixed air
-gas-pipe-sensor-teg-hot-loop = TEG hot loop
-gas-pipe-sensor-teg-cold-loop = TEG cold loop
+gas-pipe-sensor-distribution-loop = Βρόχος διανομής
+gas-pipe-sensor-waste-loop = Βρόχος αποβλήτων
+gas-pipe-sensor-mixed-air = Μικτός αέρας
+gas-pipe-sensor-teg-hot-loop = Θερμός βρόχος ΘΕΚ
+gas-pipe-sensor-teg-cold-loop = Ψυχρός βρόχος ΘΕΚ

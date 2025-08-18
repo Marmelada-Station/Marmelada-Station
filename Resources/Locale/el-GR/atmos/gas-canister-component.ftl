@@ -11,18 +11,18 @@
 
 # Bound Interface
 
-gas-canister-bound-user-interface-title = Gas Canister
+gas-canister-bound-user-interface-title = Δοχείο Αερίων
 # Popup
-gas-canister-popup-denied = Access denied
+gas-canister-popup-denied = Η πρόσβαση απορρίφθηκε
 
 # window
 
 gas-canister-window-ok-text = OK
-gas-canister-window-edit-text = Edit
-gas-canister-window-label-label = Label:
-gas-canister-window-pressure-label = Pressure:
-gas-canister-window-release-pressure-label = Release pressure:
-gas-canister-window-valve-label = Valve:
-gas-canister-window-valve-closed-text = Closed
-gas-canister-window-valve-open-text = Open
+gas-canister-window-edit-text = Επεξεργασία
+gas-canister-window-label-label = Ετικέτα:
+gas-canister-window-pressure-label = Πίεση:
+gas-canister-window-release-pressure-label = Απελευθέρωση πίεσης:
+gas-canister-window-valve-label = Βαλβίδα:
+gas-canister-window-valve-closed-text = Κλειστή
+gas-canister-window-valve-open-text = Ανοιχτή
 gas-canister-window-pressure-format-text = { $pressure }kPa

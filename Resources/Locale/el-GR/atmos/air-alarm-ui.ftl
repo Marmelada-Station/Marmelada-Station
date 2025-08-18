@@ -15,75 +15,75 @@
 
 ## Window
 
-air-alarm-ui-access-denied = Insufficient access!
-air-alarm-ui-window-pressure-label = Pressure
-air-alarm-ui-window-temperature-label = Temperature
-air-alarm-ui-window-alarm-state-label = Status
-air-alarm-ui-window-address-label = Address
-air-alarm-ui-window-device-count-label = Total Devices
-air-alarm-ui-window-resync-devices-label = Resync
-air-alarm-ui-window-mode-label = Mode
-air-alarm-ui-window-auto-mode-label = Auto mode
+air-alarm-ui-access-denied = Ανεπαρκής πρόσβαση!
+air-alarm-ui-window-pressure-label = Πίεση
+air-alarm-ui-window-temperature-label = Θερμοκρασία
+air-alarm-ui-window-alarm-state-label = Κατάσταση
+air-alarm-ui-window-address-label = Διεύθυνση 
+air-alarm-ui-window-device-count-label = Σύνολο Συσκευών
+air-alarm-ui-window-resync-devices-label = Επανασυγχρονισμός
+air-alarm-ui-window-mode-label = Λειτουργία
+air-alarm-ui-window-auto-mode-label = Αυτόματη λειτουργία
 -air-alarm-state-name =
     { $state ->
-        [normal] Normal
-        [warning] Warning
-        [danger] Danger
+        [normal] Κανονική
+        [warning] Προειδοποίηση
+        [danger] Κίνδυνος
         [emagged] Emagged
-       *[invalid] Invalid
+       *[invalid] Μη Έγκυρη
     }
 air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
 air-alarm-ui-window-pressure = { $pressure } kPa
-air-alarm-ui-window-pressure-indicator = Pressure: [color={ $color }]{ $pressure } kPa[/color]
+air-alarm-ui-window-pressure-indicator = Πίεση: [color={ $color }]{ $pressure } kPa[/color]
 air-alarm-ui-window-temperature = { $tempC } C ({ $temperature } K)
-air-alarm-ui-window-temperature-indicator = Temperature: [color={ $color }]{ $tempC } C ({ $temperature } K)[/color]
+air-alarm-ui-window-temperature-indicator = Θερμοκρασία: [color={ $color }]{ $tempC } C ({ $temperature } K)[/color]
 air-alarm-ui-window-alarm-state = [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
-air-alarm-ui-window-alarm-state-indicator = Status: [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
+air-alarm-ui-window-alarm-state-indicator = Κατάσταση: [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
 
-air-alarm-ui-window-tab-vents = Vents
-air-alarm-ui-window-tab-scrubbers = Scrubbers
-air-alarm-ui-window-tab-sensors = Sensors
+air-alarm-ui-window-tab-vents = Αεραγωγοί
+air-alarm-ui-window-tab-scrubbers = Απολυμαντές Αέρα 
+air-alarm-ui-window-tab-sensors = Αισθητήρες
 air-alarm-ui-gases = { $gas }: { $amount } mol ({ $percentage }%)
 air-alarm-ui-gases-indicator = { $gas }: [color={ $color }]{ $amount } mol ({ $percentage }%)[/color]
-air-alarm-ui-mode-filtering = Filtering
-air-alarm-ui-mode-wide-filtering = Filtering (wide)
-air-alarm-ui-mode-fill = Fill
-air-alarm-ui-mode-panic = Panic
-air-alarm-ui-mode-none = None
+air-alarm-ui-mode-filtering = Φιλτράρισμα
+air-alarm-ui-mode-wide-filtering = Φιλτράρισμα (ευρύ)
+air-alarm-ui-mode-fill = Γέμισμα
+air-alarm-ui-mode-panic = Πανικός
+air-alarm-ui-mode-none = Τίποτα
 
 ## Widgets
 
 ### General
 
-air-alarm-ui-widget-enable = Enabled
-air-alarm-ui-widget-copy = Copy settings to similar devices
-air-alarm-ui-widget-copy-tooltip = Copies the settings of this device to all devices in this air alarm tab.
-air-alarm-ui-widget-ignore = Ignore
-air-alarm-ui-atmos-net-device-label = Address: { $address }
+air-alarm-ui-widget-enable = Ενεργοποιημένο
+air-alarm-ui-widget-copy = Αντιγραφή ρυθμίσεων σε παρόμοιες συσκευές
+air-alarm-ui-widget-copy-tooltip = Αντιγράφει τις ρυθμίσεις αυτής της συσκευής σε όλες τις συσκευές αυτής της καρτέλας συναγερμού αέρα.
+air-alarm-ui-widget-ignore = Αγνόηση
+air-alarm-ui-atmos-net-device-label = Διεύθυνση: { $address }
 
 ### Vent pumps
 
-air-alarm-ui-vent-pump-label = Vent direction
-air-alarm-ui-vent-pressure-label = Pressure bound
-air-alarm-ui-vent-external-bound-label = External bound
-air-alarm-ui-vent-internal-bound-label = Internal bound
+air-alarm-ui-vent-pump-label = Κατεύθυνση εξαερισμού
+air-alarm-ui-vent-pressure-label = Όριο πίεσης 
+air-alarm-ui-vent-external-bound-label = Εξωτερικό όριο
+air-alarm-ui-vent-internal-bound-label = Εσωτερικό όριο
 
 ### Scrubbers
 
-air-alarm-ui-scrubber-pump-direction-label = Direction
-air-alarm-ui-scrubber-volume-rate-label = Rate (L)
+air-alarm-ui-scrubber-pump-direction-label = Κατεύθυνση
+air-alarm-ui-scrubber-volume-rate-label = Ρυθμός (L)
 air-alarm-ui-scrubber-wide-net-label = WideNet
 
 ### Thresholds
 
-air-alarm-ui-sensor-gases = Gases
-air-alarm-ui-sensor-thresholds = Thresholds
-air-alarm-ui-thresholds-pressure-title = Thresholds (kPa)
-air-alarm-ui-thresholds-temperature-title = Thresholds (K)
-air-alarm-ui-thresholds-gas-title = Thresholds (%)
-air-alarm-ui-thresholds-upper-bound = Danger above
-air-alarm-ui-thresholds-lower-bound = Danger below
-air-alarm-ui-thresholds-upper-warning-bound = Warning above
-air-alarm-ui-thresholds-lower-warning-bound = Warning below
-air-alarm-ui-thresholds-copy = Copy thresholds to all devices
-air-alarm-ui-thresholds-copy-tooltip = Copies the sensor thresholds of this device to all devices in this air alarm tab.
+air-alarm-ui-sensor-gases = Αέρια
+air-alarm-ui-sensor-thresholds = Όρια
+air-alarm-ui-thresholds-pressure-title = Όρια (kPa)
+air-alarm-ui-thresholds-temperature-title = Όρια (K)
+air-alarm-ui-thresholds-gas-title = Όρια (%)
+air-alarm-ui-thresholds-upper-bound = Κίνδυνος πάνω από
+air-alarm-ui-thresholds-lower-bound = Κίνδυνος κάτω από
+air-alarm-ui-thresholds-upper-warning-bound = Προειδοποίηση πάνω από
+air-alarm-ui-thresholds-lower-warning-bound = Προειδοποίηση κάτω από
+air-alarm-ui-thresholds-copy = Αντιγραφή ορίων σε όλες τις συσκευές
+air-alarm-ui-thresholds-copy-tooltip = Αντιγράφει τα όρια του αισθητήρα αυτής της συσκευής σε όλες τις συσκευές αυτής της καρτέλας συναγερμού αέρα.
