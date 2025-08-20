@@ -7,10 +7,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examination for different levels of wiring protection
-wires-panel-component-on-examine-security-level1 = There is a steel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level2 = A steel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level3 = There is a plasteel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level4 = A plasteel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level5 = The inside of the [color=lightgray]maintenance panel[/color] is protected by a security grille. Use [color=cyan]Wirecutters[/color] to remove  it.
-wires-panel-component-on-examine-security-level6 = A plasteel plate sits within the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level7 = A welded plasteel plate protects the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
+wires-panel-component-on-examine-security-level1 = Υπάρχει μια χαλύβδινη πλάκα που εμποδίζει την πρόσβαση στην εσωτερική καλωδίωση. Χρησιμοποιήστε ένα  [color=cyan]σιδερολοστό[/color] για να την αφαιρέσετε.
+wires-panel-component-on-examine-security-level2 = Μια χαλύβδινη πλάκα έχει συγκολληθεί στο εσωτερικό του  [color=lightgray]πίνακα συντήρησης[/color]. Κάνετε [color=cyan]σιδηροκόλληση[/color] για να τo αφαιρέσετε.
+wires-panel-component-on-examine-security-level3 = Υπάρχει μια πλάκα ενισχυμένου χάλυβα που εμποδίζει την πρόσβαση στην εσωτερική καλωδίωση. Χρησιμοποιήστε ένα [color=cyan]σιδερολοστό[/color] για να τo αφαιρέσετε.
+wires-panel-component-on-examine-security-level4 = Μια πλάκα ενισχυμένου χάλυβα έχει συγκολληθεί στο εσωτερικό του  [color=lightgray]πίνακα συντήρησης[/color]. Κάνετε [color=cyan]σιδηροκόλληση[/color] για να τo αφαιρέσετε.
+wires-panel-component-on-examine-security-level5 = Το εσωτερικό του [color=lightgray]πίνακα συντήρησης[/color] προστατεύεται από πλέγμα ασφαλείας. Χρησιμοποιήστε [color=cyan]κόπτες καλωδίων[/color] για να το αφαιρέσετε.
+wires-panel-component-on-examine-security-level6 = Μια πλάκα ενισχυμένου χάλυβα βρίσκεται στο εσωτερικό του  [color=lightgray]πίνακα συντήρησης[/color]. Χρησιμοποιήστε ένα [color=cyan]σιδερολοστό[/color] για να το αφαιρέσετε.
+wires-panel-component-on-examine-security-level7 = Μια συγκολλημένη πλάκα από ενισχυμένο χάλυβα προστατεύει το εσωτερικό του[color=lightgray]πίνακα συντήρησης[/color]. Κάνετε [color=cyan]σιδηροκόλληση[/color] για να τo αφαιρέσετε.

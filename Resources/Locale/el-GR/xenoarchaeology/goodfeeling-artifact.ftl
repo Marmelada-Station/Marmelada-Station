@@ -6,23 +6,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goodfeeling-artifact-1 = You feel good.
-goodfeeling-artifact-2 = Everything seems to be going alright
-goodfeeling-artifact-3 = You've got a good feeling about this
-goodfeeling-artifact-4 = Your instincts tell you everything is going to be getting better.
-goodfeeling-artifact-5 = There's a good feeling in the air.
-goodfeeling-artifact-6 = Something smells... good.
-goodfeeling-artifact-7 = The tips of your fingers feel tingly.
-goodfeeling-artifact-8 = You've got a good feeling about this.
-goodfeeling-artifact-9 = You feel happy.
-goodfeeling-artifact-10 = You fight the urge to smile.
-goodfeeling-artifact-11 = Your scalp prickles.
-goodfeeling-artifact-12 = All the colours seem a bit more vibrant.
-goodfeeling-artifact-13 = Everything seems a little lighter.
-goodfeeling-artifact-14 = The troubles of the world seem to fade away.
-goodfeeling-artifact-drastic-1 = You want to hug everyone you meet!
-goodfeeling-artifact-drastic-2 = Everything is going so well!
-goodfeeling-artifact-drastic-3 = You feel euphoric.
-goodfeeling-artifact-drastic-4 = You feel giddy.
-goodfeeling-artifact-drastic-5 = You're so happy suddenly you almost want to dance and sing.
-goodfeeling-artifact-drastic-6 = You feel like the world is out to help you.
+goodfeeling-artifact-1 = Νιώθεις καλά.
+goodfeeling-artifact-2 = Όλα φαίνονται να πηγαίνουν καλά
+goodfeeling-artifact-3 = Έχεις ένα καλό προαίσθημα γι' αυτό
+goodfeeling-artifact-4 = Το ένστικτό σου λέει ότι όλα θα βελτιωθούν.
+goodfeeling-artifact-5 = Υπάρχει ένα καλό προαίσθημα στον αέρα.
+goodfeeling-artifact-6 = Κάτι μυρίζει... ωραία.
+goodfeeling-artifact-7 = Νιώθεις ένα μούδιασμα στις άκρες των δακτύλων σου.
+goodfeeling-artifact-8 = Έχεις ένα καλό προαίσθημα γι' αυτό.
+goodfeeling-artifact-9 = Νιώθεις χαρούμενος.
+goodfeeling-artifact-10 = Καταπολεμάς την επιθυμία να χαμογελάσεις.
+goodfeeling-artifact-11 = Σου σηκώνονται οι τρίχες.
+goodfeeling-artifact-12 = Όλα τα χρώματα φαίνονται λίγο πιο ζωντανά.
+goodfeeling-artifact-13 = Όλα φαίνονται λίγο πιο ανάλαφρα.
+goodfeeling-artifact-14 = Τα προβλήματα του κόσμου φαίνεται να εξαφανίζωνται.
+goodfeeling-artifact-drastic-1 = Θέλεις να αγκαλιάσεις όποιον συναντάς!
+goodfeeling-artifact-drastic-2 = Όλα πάνε τόσο καλά!
+goodfeeling-artifact-drastic-3 = Νιώθεις ευφορία.
+goodfeeling-artifact-drastic-4 = Νιώθεις ζάλη.
+goodfeeling-artifact-drastic-5 = Είσαι τόσο χαρούμενος ξαφνικά που σχεδόν θέλεις να χορέψεις και να τραγουδήσεις.
+goodfeeling-artifact-drastic-6 = Νιώθεις σαν ο κόσμος να είναι εκεί για να σε βοηθήσει.

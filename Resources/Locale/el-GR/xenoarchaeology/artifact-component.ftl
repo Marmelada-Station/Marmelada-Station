@@ -6,5 +6,5 @@
 
 ### Verbs
 
-artifact-verb-make-always-active = Make artifact always active
-artifact-verb-activate = Activate artifact
+artifact-verb-make-always-active = Κάνε το κειμήλιο να είναι πάντα ενεργό.
+artifact-verb-activate = Ενεργοποίηση κειμηλίου

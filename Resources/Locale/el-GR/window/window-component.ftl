@@ -12,12 +12,12 @@
 ### UI
 
 # Shown when examining the window. Each entry represents the window's health condition
-comp-window-damaged-1 = It looks fully intact.
-comp-window-damaged-2 = It has a few scratches.
-comp-window-damaged-3 = It has a few small cracks.
-comp-window-damaged-4 = [color=yellow]It has several big cracks running along its surface.[/color]
-comp-window-damaged-5 = [color=orange]It has deep cracks across multiple layers.[/color]
-comp-window-damaged-6 = [color=red]It's extremely cracked and on the verge of shattering.[/color]
+comp-window-damaged-1 = Φαίνεται εντελώς άθικτο.
+comp-window-damaged-2 =  Έχει μερικές γρατσουνιές.
+comp-window-damaged-3 = Έχει μερικές μικρές ρωγμές.
+comp-window-damaged-4 = [color=yellow]Έχει αρκετές μεγάλες ρωγμές που διατρέχουν την επιφάνειά του[/color]
+comp-window-damaged-5 = [color=orange]Έχει βαθιές ρωγμές σε πολλαπλά στρώματα.[/color]
+comp-window-damaged-6 = [color=red]Είναι εξαιρετικά ραγισμένο και στα πρόθυρα θρυμματισμού.[/color]
 
 ### Interaction Messages
 

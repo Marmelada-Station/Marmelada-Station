@@ -10,21 +10,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wires-component-ui-on-receive-message-no-hands = You have no hands.
-wires-component-ui-on-receive-message-cannot-reach = You can't reach there!
-wires-component-ui-on-receive-message-need-wirecutters = You need to hold a wirecutter in your hand!
-wires-component-ui-on-receive-message-need-multitool = You need to hold a multitool in your hand!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = You can't pulse a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = You can't cut a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = You can't mend a wire that's been mended!
+wires-component-ui-on-receive-message-no-hands = Δεν έχεις χέρια.
+wires-component-ui-on-receive-message-cannot-reach = Δεν μπορείς να φτάσεις εκεί!
+wires-component-ui-on-receive-message-need-wirecutters = Πρέπει να κρατάς έναν κόφτη καλωδίων στο χέρι σου!
+wires-component-ui-on-receive-message-need-multitool = Πρέπει να κρατάς ένα πολυεργαλείο στο χέρι σου!
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Δεν μπορείς να δώσεις παλμό σε ένα καλώδιο που έχει κοπεί!
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = Δεν μπορείς να κόψεις ένα καλώδιο που έχει κοπεί!
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Δεν μπορείς να επισκευάσεις ένα καλώδιο που έχει επισκευαστεί!
 
 ## UI
 
-wires-menu-name-label = Wires
+wires-menu-name-label = Καλώδια
 wires-menu-dead-beef-text = DEAD-BEEF
 wires-menu-help-popup =
-    Click on the gold contacts with a multitool in hand to pulse their wire.
-    Click on the wires with a pair of wirecutters in hand to cut/mend them.
+    Κάντε κλικ στις χρυσές επαφές με ένα πολυεργαλείο στο χέρι για να δώσετε παλμό στο σύρμα τους.
+    Κάντε κλικ στα καλώδια με ένα ζεύγος κόφτες καλωδίων στο χέρι για να τα κόψετε/επισκευάσετε.
     
-    The lights at the top show the state of the machine, messing with wires will probably do stuff to them.
-    Wire layouts are different each round, but consistent between machines of the same type.
+    Τα φώτα στο επάνω μέρος δείχνουν την κατάσταση του μηχανήματος, η ανακαίνιση με τα καλώδια πιθανότατα θα τους κάνει κακό.
+    Οι διατάξεις καλωδίων είναι διαφορετικές σε κάθε γύρο, αλλά σταθερές μεταξύ μηχανημάτων του ίδιου τύπου.

@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-node-scan-popup = The node ID is { $id }
-node-scan-tooltip = Scan artifact
+node-scan-popup = Ο αριθμός του κόμβου είναι { $id }
+node-scan-tooltip = Σκαναρέ το κειμήλιο

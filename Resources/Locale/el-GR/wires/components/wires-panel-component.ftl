@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-wires-panel-component-on-examine-open = The [color=lightgray]maintenance panel[/color] is [color=red]open[/color].
-wires-panel-component-on-examine-closed = The [color=lightgray]maintenance panel[/color] is [color=darkgreen]closed[/color].
+wires-panel-component-on-examine-open = Ο [color=lightgray]πίνακας συντήρησης[/color] είναι [color=red]ανοικτός [/color].
+wires-panel-component-on-examine-closed = Ο [color=lightgray]πίνακας συντήρησης[/color] είναι [color=darkgreen]κλειστός[/color].

@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traversal-distorter-set-up = Traversal bias set to up, toward safer nodes
-traversal-distorter-set-down = Traversal bias set to down, toward more dangerous nodes
-traversal-distorter-desc-up = The affected artifact's traversal now favors moving up the node tree toward safer nodes.
-traversal-distorter-desc-down = The affected artifact's traversal now favors moving down the node tree towards more dangerous nodes.
+traversal-distorter-set-up = Η πόλωση διάσχισης έχει οριστεί σε πάνω, προς ασφαλέστερους κόμβους
+traversal-distorter-set-down = Η πόλωση διάσχισης έχει οριστεί σε κάτω, προς πιο επικίνδυνους κόμβους
+traversal-distorter-desc-up = Η διάσχιση του επηρεαζόμενου τεχνουργήματος ευνοεί πλέον την κίνηση προς τα πάνω στο δέντρο κόμβων προς ασφαλέστερους κόμβους.
+traversal-distorter-desc-down = Η διάσχιση του επηρεαζόμενου τεχνουργήματος ευνοεί πλέον την κίνηση προς τα κάτω στο δέντρο κόμβων προς πιο επικίνδυνους κόμβους.

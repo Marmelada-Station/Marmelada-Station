@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-cmd-applyworldgenconfig-description = Applies the given worldgen configuration to a map, setting it up for chunk loading/etc.
+cmd-applyworldgenconfig-description = Εφαρμόζει τη δεδομένη διαμόρφωση worldgen σε έναν χάρτη, ρυθμίζοντάς τον για φόρτωση chunk/κ.λπ.
 cmd-applyworldgenconfig-help = applyworldgenconfig <mapid> <prototype>
-cmd-applyworldgenconfig-prototype = worldgen config prototype
-cmd-applyworldgenconfig-success = Config applied successfully. Do not rerun this command on this map.
+cmd-applyworldgenconfig-prototype = πρωτότυπη διαμόρφωση worldgen
+cmd-applyworldgenconfig-success = Η διαμόρφωση εφαρμόστηκε με επιτυχία. Μην εκτελέσετε ξανά αυτήν την εντολή σε αυτόν τον χάρτη.

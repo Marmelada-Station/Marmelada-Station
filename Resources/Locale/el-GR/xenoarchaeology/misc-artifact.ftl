@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-blink-artifact-popup = The artifact disappeared in an instant!
-foam-artifact-popup = Strange foam pours out of the artifact!
-shuffle-artifact-popup = You feel yourself teleport instantly!
-charge-artifact-popup = You feel the air buzz with electricity.
-activate-artifact-popup-self = You activate node { $node }.
+blink-artifact-popup = Το κειμήλιο εξαφανίστηκε!
+foam-artifact-popup = Παράξενος αφρός ξεχύνεται από το κειμήλιο
+shuffle-artifact-popup = Νιώθεις να τηλεμεταφέρεσαι!
+charge-artifact-popup = Νιώθεις τον αέρα να βουίζει με ηλεκτρισμό.
+activate-artifact-popup-self = Ενεργοποιείς τον κόμβο { $node }.
