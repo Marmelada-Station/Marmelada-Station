@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-buckle-component-no-hands-message = You don't have hands!
-buckle-component-already-buckled-message = You are already buckled in!
-buckle-component-other-already-buckled-message = { $owner } is already buckled in!
-buckle-component-cannot-buckle-message = You can't buckle yourself there!
-buckle-component-other-cannot-buckle-message = You can't buckle { $owner } there!
-buckle-component-cannot-fit-message = You can't fit there!
-buckle-component-other-cannot-fit-message = { $owner } can't fit there!
+buckle-component-no-hands-message = Δεν έχεις χέρια!
+buckle-component-already-buckled-message = Έχεις ήδη δέσει τη ζώνη σου!
+buckle-component-other-already-buckled-message = {CAPITALIZE(DAT-OBJ($owner))} { $owner } έχει ήδη δέσει τη ζώνη του!
+buckle-component-cannot-buckle-message = Δεν μπορείς να δέσεις τη ζώνη εκεί!
+buckle-component-other-cannot-buckle-message = Δεν μπορείς να δέσεις τη ζώνη {$POSS-ADJ($owner)} { $owner } εκεί!
+buckle-component-cannot-fit-message = Δεν χωράς εκεί!
+buckle-component-other-cannot-fit-message = {CAPITALIZE(DAT-OBJ($owner))} { $owner } δεν χωράει εκεί!

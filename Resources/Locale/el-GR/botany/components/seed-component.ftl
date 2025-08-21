@@ -9,11 +9,11 @@
 
 ## Entity
 
-seed-component-description = It looks like you can grow [color=yellow]{ $seedName }[/color] from these.
-seed-component-has-variety-tag = It's tagged as variety [color=lightgray]no. { $seedUid }[/color].
-seed-component-plant-yield-text = Plant Yield:    [color=lightblue]{ $seedYield }[/color]
-seed-component-plant-potency-text = Plant Potency: [color=lightblue]{ $seedPotency }[/color]
-botany-seed-packet-name = packet of { $seedName } { $seedNoun }
-botany-harvest-fail-message = You fail to harvest anything useful.
-botany-harvest-success-message = You harvest from the { $name }
-botany-mysterious-description-addon = On second thought, something about this one looks strange.
+seed-component-description = Φαίνεται ότι μπορείς να καλλιεργήσεις [color=yellow]{ $seedName }[/color] από αυτά.
+seed-component-has-variety-tag = Έχει επισημανθεί ως ποικιλία [color=lightgray]no. { $seedUid }[/color].
+seed-component-plant-yield-text = Φυτική Απόδοση:    [color=lightblue]{ $seedYield }[/color]
+seed-component-plant-potency-text = Φυτική Ισχύς: [color=lightblue]{ $seedPotency }[/color]
+botany-seed-packet-name = πακέτο από { $seedName } { $seedNoun }
+botany-harvest-fail-message = Δεν καταφέρνεις να μαζέψεις τίποτα χρήσιμο.
+botany-harvest-success-message = Θερίζεις από { $name }
+botany-mysterious-description-addon = Σε δεύτερη σκέψη, κάτι πάνω σε αυτό φαίνεται παράξενο.

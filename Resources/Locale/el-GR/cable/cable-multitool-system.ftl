@@ -6,15 +6,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cable-multitool-system-internal-error-no-power-node = Your multitool reads, "INTERNAL ERROR: NOT A POWER CABLE".
-cable-multitool-system-internal-error-missing-component = Your multitool reads, "INTERNAL ERROR: CABLE ABNORMAL".
-cable-multitool-system-verb-name = Power
-cable-multitool-system-verb-tooltip = Use a multitool to examine power statistics.
+cable-multitool-system-internal-error-no-power-node = Το πολυεργαλείο σου εμφανίζει το μήνυμα "ΕΣΩΤΕΡΙΚΟ ΣΦΑΛΜΑ: ΔΕΝ ΥΠΑΡΧΕΙ ΚΑΛΩΔΙΟ ΤΡΟΦΟΔΟΣΙΑΣ".
+cable-multitool-system-internal-error-missing-component = Το πολυεργαλείο σου εμφανίζει το μήνυμα "ΕΣΩΤΕΡΙΚΟ ΣΦΑΛΜΑ: ΚΑΛΩΔΙΟ ΜΗ ΦΥΣΙΟΛΟΓΙΚΟ".
+cable-multitool-system-verb-name = Ενέργεια
+cable-multitool-system-verb-tooltip = Χρησιμοποίησε ένα πολυεργαλείο για να εξετάσεις τα στατιστικά στοιχεία ενέργειας.
 cable-multitool-system-statistics =
-    Your multitool shows a list of statistics:
-    Current Supply: { POWERWATTS($supplyc) }
-    From Batteries: { POWERWATTS($supplyb) }
-    Theoretical Supply: { POWERWATTS($supplym) }
-    Ideal Consumption: { POWERWATTS($consumption) }
-    Input Storage: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
-    Output Storage: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
+    Το πολυεργαλείο σου εμφανίζει μια λίστα στατιστικών στοιχείων:
+    Τρέχουσα Παροχή: { POWERWATTS($supplyc) }
+    Από Μπαταρίες: { POWERWATTS($supplyb) }
+    Θεωρητική Παροχή: { POWERWATTS($supplym) }
+    Ιδανική Κατανάλωση: { POWERWATTS($consumption) }
+    Αποθήκευση Εισόδου: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
+    Αποθήκευση Εξόδου: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
